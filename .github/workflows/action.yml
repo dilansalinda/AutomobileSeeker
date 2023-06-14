@@ -1,0 +1,46 @@
+name: AutoMobile Seeker Actions
+
+on: 
+  schedule:
+    - cron: '0 */2 * * *' # Runs every other hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Execute py script
+        run: python main.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update courses.md
+        id: auto-commit-action
+
+      - name: Send email
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject: 'Babyschwimmen: Neue Kurse online'
+          to: franz.bernack@cranky.de
+          from: BabySwimming WebScraper
+          html_body: file://courses.md
+          convert_markdown: true
