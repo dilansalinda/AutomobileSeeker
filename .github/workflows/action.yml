@@ -28,7 +28,7 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update courses.md
+          commit_message: Update data.md
         id: auto-commit-action
 
       - name: Send email
@@ -39,8 +39,8 @@ jobs:
           server_port: 465
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
-          subject: 'Babyschwimmen: Neue Kurse online'
-          to: franz.bernack@cranky.de
-          from: BabySwimming WebScraper
-          html_body: file://courses.md
+          subject: 'AutoMobile Seeker'
+          to: kubesonar@gmail.com
+          from: AutoMobile Seeker
+          html_body: file://data.md
           convert_markdown: true
