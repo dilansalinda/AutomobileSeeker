@@ -176,14 +176,6 @@ Mileage (Km):**44200**
 Publish Date:** 2023-06-14**
 
 ##        
-### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6487022)
-![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-eddition-2018-1416145812771.jpg)
-Location:** Kurunegala**
-Price (Rs):** Rs. 7,230,000 **
-Mileage (Km):**55000**
-Publish Date:** 2023-06-14**
-
-##        
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-matara-6487007)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1416094412041.jpg)
 Location:** Matara**
