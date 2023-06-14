@@ -1,5 +1,29 @@
 
 ##        
+### [Toyota Vitz SCP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-scp90-sale-nugegoda-6486851)
+![Toyota Vitz SCP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-14152944411.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 4,300,000 **
+Mileage (Km):**167000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota VITZ Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6486850)
+![Toyota VITZ Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1415294312581.jpg)
+Location:** Wennappuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**57000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-colombo-6486806)
+![Toyota Vitz Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2017-1415193012141.jpg)
+Location:** Colombo**
+Price (Rs):** Rs. 6,775,000 **
+Mileage (Km):**64000**
+Publish Date:** 2023-06-14**
+
+##        
 ### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-malabe-6486646)
 ![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1414393231.jpg)
 Location:** Malabe**
@@ -9,7 +33,7 @@ Publish Date:** 2023-06-14**
 
 ##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6486604)
-![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-1414283212431.jpg)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-141428321226335.jpg)
 Location:** Kandy**
 Price (Rs):** Negotiable **
 Mileage (Km):**40000**
@@ -93,14 +117,6 @@ Publish Date:** 2023-06-14**
 Location:** Kadawatha**
 Price (Rs):** Negotiable **
 Mileage (Km):**92500**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota VITZ Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6486100)
-![Toyota VITZ Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1412390912221.jpg)
-Location:** Wennappuwa**
-Price (Rs):** Negotiable **
-Mileage (Km):**57000**
 Publish Date:** 2023-06-14**
 
 ##        
