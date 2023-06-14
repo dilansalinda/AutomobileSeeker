@@ -3,7 +3,7 @@ name: AutoMobile Seeker Actions
 on: 
   schedule:
     - cron: '0 */2 * * *' # Runs every other hour
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
