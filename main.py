@@ -3,6 +3,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 from datetime import date
+import re
 
 
 def make_request(url):
@@ -25,10 +26,16 @@ def extract_data(html):
 
     for item in items:
         itemPublishedDate = item.find('div', {"class": "s"}).text
-
-        # Skip records that don't have the current date
-        # if itemPublishedDate != today:
-        #     continue
+        itemLinkH2 = item.find('h2', {"class": "more"})
+        itemLink = ''
+        
+        for tag in itemLinkH2.findAll("a", href=True):
+                itemLink =tag['href']
+                
+        itemPublishedDateStripped = re.sub(' +', ' ', itemPublishedDate).strip()
+       # Skip records that don't have the current date
+        if itemPublishedDateStripped != today:
+            continue
 
         itemName = item.find('h2', {"class": "more"}).text
         itemImage = item.find('div')
@@ -46,11 +53,11 @@ def extract_data(html):
 
         data += f"""
 ##        
-### {itemName}
+### [{itemName}]({itemLink})
 ![{itemName}]({itemImageLink})
 Location:**{itemLocation}**
-Price:**{itemPrice} **
-Milage:**{itemMilage} Km**
+Price (Rs):**{itemPrice} **
+Mileage (Km):**{itemMilage}**
 Publish Date:**{itemPublishedDate}**
 """
     return data
