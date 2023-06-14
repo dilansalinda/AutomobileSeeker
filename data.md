@@ -1,5 +1,85 @@
 
 ##        
+### [Toyota Vitz 2nd Edition 2018 Car](https://riyasewana.com/buy/toyota-vitz-2nd-sale-kandy-6487367)
+![Toyota Vitz 2nd Edition 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2nd-2018-1417384912261.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 7,300,000 **
+Mileage (Km):**72000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-mirigama-6487347)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1417350317741.jpg)
+Location:** Mirigama**
+Price (Rs):** Rs. 3,990,000 **
+Mileage (Km):**122000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-maharagama-6487210)
+![Toyota Vitz Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-141700584661.jpg)
+Location:** Maharagama**
+Price (Rs):** Rs. 6,350,000 **
+Mileage (Km):**81000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-eheliyagoda-6487141)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-141644094211.jpg)
+Location:** Eheliyagoda**
+Price (Rs):** Rs. 6,500,000 **
+Mileage (Km):**44200**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz Eddition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-eddition-sale-kurunegala-6487022)
+![Toyota Vitz Eddition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-eddition-2018-1416145812771.jpg)
+Location:** Kurunegala**
+Price (Rs):** Rs. 7,230,000 **
+Mileage (Km):**55000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-matara-6487007)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1416094412041.jpg)
+Location:** Matara**
+Price (Rs):** Rs. 6,190,000 **
+Mileage (Km):**81000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6486982)
+![Toyota Vitz Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-1416022012471.jpg)
+Location:** Kurunegala**
+Price (Rs):** Negotiable **
+Mileage (Km):**39000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6486942)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vits-1415502722651.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 6,100,000 **
+Mileage (Km):**100000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6486933)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1415490112341.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,275,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-14**
+
+##        
+### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6486928)
+![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-14154722611.jpg)
+Location:** Colombo**
+Price (Rs):** Rs. 5,875,000 **
+Mileage (Km):**90000**
+Publish Date:** 2023-06-14**
+
+##        
 ### [Toyota Vitz SCP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-scp90-sale-nugegoda-6486851)
 ![Toyota Vitz SCP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-14152944411.jpg)
 Location:** Nugegoda**
@@ -128,14 +208,6 @@ Mileage (Km):**57000**
 Publish Date:** 2023-06-14**
 
 ##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6485927)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1412064612531.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,275,000 **
-Mileage (Km):**97000**
-Publish Date:** 2023-06-14**
-
-##        
 ### [Toyota Vitz KSP90 8 2007 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-boralesgamuwa-6485902)
 ![Toyota Vitz KSP90 8 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-14120304621.jpg)
 Location:** Boralesgamuwa**
@@ -173,14 +245,6 @@ Publish Date:** 2023-06-14**
 Location:** Divulapitiya**
 Price (Rs):** Negotiable **
 Mileage (Km):**78000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-mirigama-6485649)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1411213612512.jpg)
-Location:** Mirigama**
-Price (Rs):** Rs. 4,050,000 **
-Mileage (Km):**122**
 Publish Date:** 2023-06-14**
 
 ##        
@@ -253,52 +317,4 @@ Publish Date:** 2023-06-14**
 Location:** Wennappuwa**
 Price (Rs):** Rs. 4,750,000 **
 Mileage (Km):**88000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-badulla-6484415)
-![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-132354554121.jpg)
-Location:** Badulla**
-Price (Rs):** Rs. 3,985,000 **
-Mileage (Km):**90000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kadawatha-6484169)
-![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2016-147330712681.jpg)
-Location:** Kadawatha**
-Price (Rs):** Rs. 6,350,000 **
-Mileage (Km):**62000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota VITZ Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6484134)
-![Toyota VITZ Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-147273812532.jpg)
-Location:** Kurunegala**
-Price (Rs):** Rs. 8,125,000 **
-Mileage (Km):**9700**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6484120)
-![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-led-1472245601.jpg)
-Location:** Nittambuwa**
-Price (Rs):** Rs. 6,525,000 **
-Mileage (Km):**38000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz EDITION 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6484115)
-![Toyota Vitz EDITION 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-14720354611.jpg)
-Location:** Wennappuwa**
-Price (Rs):** Rs. 7,400,000 **
-Mileage (Km):**75000**
-Publish Date:** 2023-06-14**
-
-##        
-### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6484000)
-![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2019-147001012651.jpg)
-Location:** Colombo**
-Price (Rs):** Rs. 7,600,000 **
-Mileage (Km):**48000**
 Publish Date:** 2023-06-14**
