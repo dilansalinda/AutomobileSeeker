@@ -25,6 +25,9 @@ jobs:
       - name: Execute py script
         run: python main.py
 
+      -name: Git pull
+        run: git fetch --all
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
