@@ -192,14 +192,6 @@ Mileage (Km):**83000**
 Publish Date:** 2023-06-15**
 
 ##        
-### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6490158)
-![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-151032506361.jpg)
-Location:** Colombo**
-Price (Rs):** Rs. 5,850,000 **
-Mileage (Km):**79500**
-Publish Date:** 2023-06-15**
-
-##        
 ### [Toyota Vitz Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-bandaragama-6489995)
 ![Toyota Vitz Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-159494512861.jpg)
 Location:** Bandaragama**
