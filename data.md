@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2002 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6493021)
+![Toyota Vitz 2002 Car](//riyasewana.com/thumb/thumbno_100.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 2,950,000 **
+Mileage (Km):**125000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kadawatha-6492817)
 ![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2016-1520045112411.jpg)
 Location:** Kadawatha**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-15**
 Location:** Dehiwala-Mount-Lavinia**
 Price (Rs):** Rs. 7,400,000 **
 Mileage (Km):**51000**
-Publish Date:** 2023-06-15**
-
-##        
-### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-gampaha-6489813)
-![Toyota Vitz Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2017-159270712291.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 6,750,000 **
-Mileage (Km):**60000**
 Publish Date:** 2023-06-15**
