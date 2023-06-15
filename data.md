@@ -1,7 +1,7 @@
 
 ##        
 ### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6491209)
-![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbno_100.jpg)
+![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-1513283617101.jpg)
 Location:** Wennappuwa**
 Price (Rs):** Rs. 7,450,000 **
 Mileage (Km):**45000**
