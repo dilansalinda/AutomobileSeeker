@@ -25,7 +25,7 @@ jobs:
       - name: Execute py script
         run: python main.py
 
-      -name: Git pull
+      - name: Git pull
         run: git fetch --all
 
       - name: Commit changes
