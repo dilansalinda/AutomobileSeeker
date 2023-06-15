@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-anuradapura-6492127)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-151715214971.jpg)
+Location:** Anuradapura**
+Price (Rs):** Rs. 4,125,000 **
+Mileage (Km):**110000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-pannipitiya-6491926)
 ![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-1516195912321.jpg)
 Location:** Pannipitiya**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-15**
 Location:** Nittambuwa**
 Price (Rs):** Negotiable **
 Mileage (Km):**127**
-Publish Date:** 2023-06-15**
-
-##        
-### [Toyota Vitz Edition2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition2-sale-chilaw-6489159)
-![Toyota Vitz Edition2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition2-2018-157502212401.jpg)
-Location:** Chilaw**
-Price (Rs):** Rs. 7,250,000 **
-Mileage (Km):**40000**
 Publish Date:** 2023-06-15**
