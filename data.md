@@ -1,10 +1,18 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6491832)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1515554512431.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,275,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-kalmunai-6491778)
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-151542264061.jpg)
 Location:** Kalmunai**
 Price (Rs):** Rs. 4,400,000 **
-Mileage (Km):**59000**
+Mileage (Km):**4,400,000**
 Publish Date:** 2023-06-15**
 
 ##        
@@ -85,14 +93,6 @@ Publish Date:** 2023-06-15**
 Location:** Kandy**
 Price (Rs):** Rs. 4,275,000 **
 Mileage (Km):**125000**
-Publish Date:** 2023-06-15**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6490946)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1512270512871.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,275,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-15**
 
 ##        
