@@ -105,7 +105,7 @@ Publish Date:** 2023-06-15**
 
 ##        
 ### [Toyota VITZ KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-malabe-6491120)
-![Toyota VITZ KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1513024717115.jpg)
+![Toyota VITZ KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1513005012462.jpg)
 Location:** Malabe**
 Price (Rs):** Rs. 3,975,000 **
 Mileage (Km):**107000**
