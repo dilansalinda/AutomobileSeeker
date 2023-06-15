@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Safety 2015 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6491421)
+![Toyota Vitz Safety 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-151418264821.jpg)
+Location:** Kurunegala**
+Price (Rs):** Rs. 5,780,000 **
+Mileage (Km):**62000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6491301)
 ![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1513474422591.jpg)
 Location:** Kandy**
