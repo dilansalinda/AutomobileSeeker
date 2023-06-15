@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Safety Edition 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-dankotuwa-6491470)
+![Toyota Vitz Safety Edition 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2017-1514313512131.jpg)
+Location:** Dankotuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**81000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz Safety 2015 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6491421)
 ![Toyota Vitz Safety 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-151418264821.jpg)
 Location:** Kurunegala**
