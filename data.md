@@ -1,10 +1,98 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-kegalle-6490646)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1511300012451.jpg)
+Location:** Kegalle**
+Price (Rs):** Rs. 4,325,000 **
+Mileage (Km):**90000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6490526)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-15110957881.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,290,000 **
+Mileage (Km):**70000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz Edition 2 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-colombo-6490521)
+![Toyota Vitz Edition 2 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1511090112631.jpg)
+Location:** Colombo**
+Price (Rs):** Negotiable **
+Mileage (Km):**71000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6490301)
+![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-15103042361.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,090,000 **
+Mileage (Km):**60000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6490270)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1510263022781.jpg)
+Location:** Negombo**
+Price (Rs):** Rs. 5,850,000 **
+Mileage (Km):**103000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6490234)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1510221412281.jpg)
+Location:** Gampaha**
+Price (Rs):** Negotiable **
+Mileage (Km):**68000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota VITZ Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6490190)
+![Toyota VITZ Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1510163012031.jpg)
+Location:** Wennappuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**57000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6490185)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-1510181917731.jpg)
+Location:** Gampaha**
+Price (Rs):** Negotiable **
+Mileage (Km):**83000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6490158)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-151032506361.jpg)
+Location:** Colombo**
+Price (Rs):** Rs. 5,850,000 **
+Mileage (Km):**79500**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-bandaragama-6489995)
+![Toyota Vitz Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-159494512861.jpg)
+Location:** Bandaragama**
+Price (Rs):** Rs. 8,025,000 **
+Mileage (Km):**24000**
+Publish Date:** 2023-06-15**
+
+##        
 ### [Toyota Vitz Ksp90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-embilipitiya-6489896)
 ![Toyota Vitz Ksp90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2008-159373512961.jpg)
 Location:** Embilipitiya**
 Price (Rs):** Rs. 3,990,000 **
 Mileage (Km):**107000**
+Publish Date:** 2023-06-15**
+
+##        
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-dehiwala-mount-lavinia-6489895)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-159373312501.jpg)
+Location:** Dehiwala-Mount-Lavinia**
+Price (Rs):** Rs. 7,400,000 **
+Mileage (Km):**51000**
 Publish Date:** 2023-06-15**
 
 ##        
@@ -107,6 +195,6 @@ Publish Date:** 2023-06-15**
 ### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6488571)
 ![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-157443817951.jpg)
 Location:** Kurunegala**
-Price (Rs):** Rs. 7,260,000 **
+Price (Rs):** Rs. 7,375,000 **
 Mileage (Km):**55000**
 Publish Date:** 2023-06-15**
