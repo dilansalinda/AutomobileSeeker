@@ -25,7 +25,7 @@ Publish Date:** 2023-06-15**
 
 ##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-kurunegala-6491131)
-![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbno_100.jpg)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-151334136501.jpg)
 Location:** Kurunegala**
 Price (Rs):** Rs. 6,450,000 **
 Mileage (Km):**26900**
