@@ -241,7 +241,7 @@ Publish Date:** 2023-06-16**
 
 ##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6493847)
-![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-167182212021.jpg)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-16718221202127.jpg)
 Location:** Negombo**
 Price (Rs):** Rs. 7,650,000 **
 Mileage (Km):**43000**
