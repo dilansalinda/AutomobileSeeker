@@ -25,7 +25,7 @@ Publish Date:** 2023-06-16**
 
 ##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-dehiwala-mount-lavinia-6496835)
-![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1615183122461.jpg)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1615183222122.jpg)
 Location:** Dehiwala-Mount-Lavinia**
 Price (Rs):** Rs. 7,200,000 **
 Mileage (Km):**51800**
