@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-homagama-6496689)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-161446014821.jpg)
+Location:** Homagama**
+Price (Rs):** Rs. 8,000,000 **
+Mileage (Km):**20000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz Ksp 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp-sale-divulapitiya-6496501)
 ![Toyota Vitz Ksp 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-2008-1614054712111.jpg)
 Location:** Divulapitiya**
@@ -75,7 +83,7 @@ Publish Date:** 2023-06-16**
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495935)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1612135113001.jpg)
 Location:** Gampaha**
-Price (Rs):** Rs. 4,250,000 **
+Price (Rs):** Rs. 4,275,000 **
 Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-16**
 Location:** Anuradapura**
 Price (Rs):** Rs. 8,050,000 **
 Mileage (Km):**30000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-gampaha-6493504)
-![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-1655815281.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 6,100,000 **
-Mileage (Km):**78000**
 Publish Date:** 2023-06-16**
