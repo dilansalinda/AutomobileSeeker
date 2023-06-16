@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nugegoda-6494637)
+![Toyota Vitz Edition 1 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-169091612671.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,450,000 **
+Mileage (Km):**40500**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6494587)
 ![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1690111341.jpg)
 Location:** Nittambuwa**
