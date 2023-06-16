@@ -1,10 +1,34 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-kesbewa-6498132)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vits-2007-1619505312471.jpg)
+Location:** Kesbewa**
+Price (Rs):** Rs. 4,175,000 **
+Mileage (Km):**102566**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-kegalle-6498051)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1619411013001.jpg)
+Location:** Kegalle**
+Price (Rs):** Rs. 4,100,000 **
+Mileage (Km):**138000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz U GRADE 2000 Car](https://riyasewana.com/buy/toyota-vitz-u-sale-colombo-6497969)
 ![Toyota Vitz U GRADE 2000 Car](//riyasewana.com/thumb/thumbtoyota-vitz-u-2000-1619293612251.jpg)
 Location:** Colombo**
 Price (Rs):** Rs. 2,850,000 **
 Mileage (Km):**142000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-kegalle-6497962)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1619284212571.jpg)
+Location:** Kegalle**
+Price (Rs):** Rs. 4,100,000 **
+Mileage (Km):**138000**
 Publish Date:** 2023-06-16**
 
 ##        
@@ -293,28 +317,4 @@ Publish Date:** 2023-06-16**
 Location:** Colombo**
 Price (Rs):** Negotiable **
 Mileage (Km):**200000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6495533)
-![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-ksp90-2008-1611075112641.jpg)
-Location:** Negombo**
-Price (Rs):** Rs. 3,975,000 **
-Mileage (Km):**110000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-panadura-6495483)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610593512651.jpg)
-Location:** Panadura**
-Price (Rs):** Rs. 4,290,000 **
-Mileage (Km):**84000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz Jewela 2015 Car](https://riyasewana.com/buy/toyota-vitz-jewela-sale-embilipitiya-6495335)
-![Toyota Vitz Jewela 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-jewela-1610365823001.jpg)
-Location:** Embilipitiya**
-Price (Rs):** Rs. 5,850,000 **
-Mileage (Km):**89000**
 Publish Date:** 2023-06-16**
