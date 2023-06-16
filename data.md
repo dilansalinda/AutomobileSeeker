@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-kadawatha-6496186)
+![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-11232420111.jpg)
+Location:** Kadawatha**
+Price (Rs):** Rs. 7,900,000 **
+Mileage (Km):**59000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz SCP90 2007 Car](https://riyasewana.com/buy/toyota-vitz-scp90-sale-kandy-6496129)
 ![Toyota Vitz SCP90 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-scp90-2007-1612501212461.jpg)
 Location:** Kandy**
@@ -24,8 +32,8 @@ Mileage (Km):**82000**
 Publish Date:** 2023-06-16**
 
 ##        
-### [Toyota VITZ EDITION 1 SAFETY 2017 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-colombo-6495999)
-![Toyota VITZ EDITION 1 SAFETY 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-161224484461.jpg)
+### [Toyota VITZ 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6495999)
+![Toyota VITZ 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-161224484461.jpg)
 Location:** Colombo**
 Price (Rs):** Rs. 6,790,000 **
 Mileage (Km):**75000**
@@ -72,8 +80,8 @@ Mileage (Km):**75000**
 Publish Date:** 2023-06-16**
 
 ##        
-### [Toyota Vitz Safety Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-gampaha-6495714)
-![Toyota Vitz Safety Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2019-1611402512291.jpg)
+### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495714)
+![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2019-1611402512291.jpg)
 Location:** Gampaha**
 Price (Rs):** Negotiable **
 Mileage (Km):**19000**
