@@ -302,11 +302,3 @@ Location:** Colombo**
 Price (Rs):** Rs. 6,790,000 **
 Mileage (Km):**75000**
 Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nittambuwa-6495953)
-![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-161217194931.jpg)
-Location:** Nittambuwa**
-Price (Rs):** Rs. 7,150,000 **
-Mileage (Km):**68000**
-Publish Date:** 2023-06-16**
