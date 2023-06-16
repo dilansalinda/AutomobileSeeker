@@ -310,11 +310,3 @@ Location:** Nittambuwa**
 Price (Rs):** Rs. 7,150,000 **
 Mileage (Km):**68000**
 Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6495939)
-![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-161214164361.jpg)
-Location:** Nittambuwa**
-Price (Rs):** Negotiable **
-Mileage (Km):**57000**
-Publish Date:** 2023-06-16**
