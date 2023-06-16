@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-colombo-6495536)
+![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-1685818371.jpg)
+Location:** Colombo**
+Price (Rs):** Negotiable **
+Mileage (Km):**200000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495471)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610562712121.jpg)
 Location:** Gampaha**
@@ -69,14 +77,6 @@ Publish Date:** 2023-06-16**
 Location:** Kurunegala**
 Price (Rs):** Negotiable **
 Mileage (Km):**39000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-colombo-6494559)
-![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-1685818371.jpg)
-Location:** Colombo**
-Price (Rs):** Negotiable **
-Mileage (Km):**200000**
 Publish Date:** 2023-06-16**
 
 ##        
