@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-badulla-6496398)
+![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-161343514681.jpg)
+Location:** Badulla**
+Price (Rs):** Rs. 3,875,000 **
+Mileage (Km):**90000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6496390)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1613420612201.jpg)
+Location:** Colombo**
+Price (Rs):** Rs. 4,050,000 **
+Mileage (Km):**168**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-kadawatha-6496186)
 ![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-11232420111.jpg)
 Location:** Kadawatha**
@@ -13,14 +29,6 @@ Publish Date:** 2023-06-16**
 Location:** Kandy**
 Price (Rs):** Rs. 4,350,000 **
 Mileage (Km):**137000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2005 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6496079)
-![Toyota Vitz 2005 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2005-1612385312461.jpg)
-Location:** Colombo**
-Price (Rs):** Rs. 3,650,000 **
-Mileage (Km):**105000**
 Publish Date:** 2023-06-16**
 
 ##        
@@ -171,7 +179,7 @@ Publish Date:** 2023-06-16**
 ### [Toyota Vitz Safety Edition 2015 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6495091)
 ![Toyota Vitz Safety Edition 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-161331046482.jpg)
 Location:** Kurunegala**
-Price (Rs):** Rs. 5,780,000 **
+Price (Rs):** Rs. 5,775,000 **
 Mileage (Km):**62000**
 Publish Date:** 2023-06-16**
 
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-16**
 Location:** Wennappuwa**
 Price (Rs):** Rs. 4,190,000 **
 Mileage (Km):**124000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz Safety Edition 2 2019 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6493459)
-![Toyota Vitz Safety Edition 2 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2019-164440812021.jpg)
-Location:** Kurunegala**
-Price (Rs):** Rs. 7,350,000 **
-Mileage (Km):**55000**
 Publish Date:** 2023-06-16**
