@@ -1,5 +1,37 @@
 
 ##        
+### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6495786)
+![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-16114926641.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,290,000 **
+Mileage (Km):**70000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz Safety Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-gampaha-6495714)
+![Toyota Vitz Safety Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2019-1611402512291.jpg)
+Location:** Gampaha**
+Price (Rs):** Negotiable **
+Mileage (Km):**19000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6495707)
+![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-16113911691.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,090,000 **
+Mileage (Km):**60000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz Ksp130 2012 Car](https://riyasewana.com/buy/toyota-vitz-ksp130-sale-kandy-6495677)
+![Toyota Vitz Ksp130 2012 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp130-2012-1611325312521.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 5,400,000 **
+Mileage (Km):**160000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-divulapitiya-6495589)
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1611163812401.jpg)
 Location:** Divulapitiya**
