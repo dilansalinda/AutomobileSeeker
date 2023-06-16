@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nugegoda-6497090)
+![Toyota Vitz Edition 1 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1616173312891.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 6,450,000 **
+Mileage (Km):**40500**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-wennappuwa-6497066)
 ![Toyota Vitz Edition 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-161612551280195.jpg)
 Location:** Wennappuwa**
@@ -109,14 +117,6 @@ Publish Date:** 2023-06-16**
 Location:** Nittambuwa**
 Price (Rs):** Negotiable **
 Mileage (Km):**57000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495935)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1612135113001.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,275,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
 ##        
@@ -240,14 +240,6 @@ Mileage (Km):**33500**
 Publish Date:** 2023-06-16**
 
 ##        
-### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6494637)
-![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-169091612671.jpg)
-Location:** Nugegoda**
-Price (Rs):** Rs. 6,450,000 **
-Mileage (Km):**40500**
-Publish Date:** 2023-06-16**
-
-##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6494587)
 ![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1690111341.jpg)
 Location:** Nittambuwa**
@@ -317,4 +309,12 @@ Publish Date:** 2023-06-16**
 Location:** Horana**
 Price (Rs):** Negotiable **
 Mileage (Km):**132000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6493746)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbdaihatsu-vitz-led-1670156381.jpg)
+Location:** Nittambuwa**
+Price (Rs):** Rs. 6,525,000 **
+Mileage (Km):**38000**
 Publish Date:** 2023-06-16**
