@@ -19,7 +19,7 @@ Publish Date:** 2023-06-16**
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6494735)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-167113312011.jpg)
 Location:** Gampaha**
-Price (Rs):** Rs. 4,250,000 **
+Price (Rs):** Rs. 4,225,000 **
 Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
