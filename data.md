@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-kesbewa-6494359)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vits-2008-168355212041.jpg)
+Location:** Kesbewa**
+Price (Rs):** Rs. 4,190,000 **
+Mileage (Km):**67511**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6494352)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-168344522761.jpg)
+Location:** Negombo**
+Price (Rs):** Rs. 5,850,000 **
+Mileage (Km):**103000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-colombo-6494007)
 ![Toyota Vitz Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2017-167440612921.jpg)
 Location:** Colombo**
