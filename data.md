@@ -56,6 +56,14 @@ Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6495916)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1612111212231.jpg)
+Location:** Nittambuwa**
+Price (Rs):** Rs. 4,175,000 **
+Mileage (Km):**95000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6495786)
 ![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-16114926641.jpg)
 Location:** Nugegoda**
