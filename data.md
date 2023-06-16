@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495471)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610562712121.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,250,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz Jewela 2015 Car](https://riyasewana.com/buy/toyota-vitz-jewela-sale-embilipitiya-6495335)
 ![Toyota Vitz Jewela 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-jewela-1610365823001.jpg)
 Location:** Embilipitiya**
@@ -37,14 +45,6 @@ Publish Date:** 2023-06-16**
 Location:** Mawanella**
 Price (Rs):** Rs. 5,790,000 **
 Mileage (Km):**33500**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6494735)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-167113312011.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,225,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
 ##        
