@@ -64,6 +64,14 @@ Mileage (Km):**110000**
 Publish Date:** 2023-06-16**
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-panadura-6495483)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610593512651.jpg)
+Location:** Panadura**
+Price (Rs):** Rs. 4,290,000 **
+Mileage (Km):**84000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495471)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610562712121.jpg)
 Location:** Gampaha**
