@@ -112,8 +112,8 @@ Mileage (Km):**122000**
 Publish Date:** 2023-06-16**
 
 ##        
-### [Toyota Vitz Additional 3 Safety 2019 Car](https://riyasewana.com/buy/toyota-vitz-additional-sale-anuradapura-6493509)
-![Toyota Vitz Additional 3 Safety 2019 Car](//riyasewana.com/thumb/thumbtoyota-tiyita-vitz-16559494441.jpg)
+### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-anuradapura-6493509)
+![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-tiyita-vitz-16559494441.jpg)
 Location:** Anuradapura**
 Price (Rs):** Rs. 8,050,000 **
 Mileage (Km):**30000**
