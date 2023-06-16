@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-divulapitiya-6495589)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1611163812401.jpg)
+Location:** Divulapitiya**
+Price (Rs):** Rs. 4,350,000 **
+Mileage (Km):**136000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2005 Car](https://riyasewana.com/buy/toyota-vitz-sale-dehiwala-mount-lavinia-6495582)
+![Toyota Vitz 2005 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2005-1611154412191.jpg)
+Location:** Dehiwala-Mount-Lavinia**
+Price (Rs):** Rs. 3,700,000 **
+Mileage (Km):**95500**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-colombo-6495536)
 ![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-1685818371.jpg)
 Location:** Colombo**
