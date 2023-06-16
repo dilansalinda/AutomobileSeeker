@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Ksp 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp-sale-divulapitiya-6496501)
+![Toyota Vitz Ksp 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-2008-1614054712111.jpg)
+Location:** Divulapitiya**
+Price (Rs):** Rs. 4,075,000 **
+Mileage (Km):**138000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-badulla-6496398)
 ![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-161343514681.jpg)
 Location:** Badulla**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-16**
 Location:** Gampaha**
 Price (Rs):** Rs. 6,100,000 **
 Mileage (Km):**78000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz Ksp90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-wennappuwa-6493493)
-![Toyota Vitz Ksp90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vits-ksp90-2008-165511812231.jpg)
-Location:** Wennappuwa**
-Price (Rs):** Rs. 4,190,000 **
-Mileage (Km):**124000**
 Publish Date:** 2023-06-16**
