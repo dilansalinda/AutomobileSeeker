@@ -116,7 +116,7 @@ Publish Date:** 2023-06-16**
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vits-2008-168355212922.jpg)
 Location:** Kesbewa**
 Price (Rs):** Rs. 4,190,000 **
-Mileage (Km):**67511**
+Mileage (Km):**102511**
 Publish Date:** 2023-06-16**
 
 ##        
