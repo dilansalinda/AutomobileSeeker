@@ -1,7 +1,7 @@
 
 ##        
 ### [Toyota Vitz Safety Edition 2015 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6497797)
-![Toyota Vitz Safety Edition 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-161905216591.jpg)
+![Toyota Vitz Safety Edition 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-161908336361.jpg)
 Location:** Kurunegala**
 Price (Rs):** Rs. 5,775,000 **
 Mileage (Km):**62000**
