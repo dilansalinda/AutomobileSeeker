@@ -24,8 +24,8 @@ Mileage (Km):**20000**
 Publish Date:** 2023-06-16**
 
 ##        
-### [Toyota Vitz Ksp 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp-sale-divulapitiya-6496501)
-![Toyota Vitz Ksp 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-2008-1614054712111.jpg)
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-divulapitiya-6496501)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-2008-1614054712111.jpg)
 Location:** Divulapitiya**
 Price (Rs):** Rs. 4,075,000 **
 Mileage (Km):**138000**
