@@ -65,7 +65,7 @@ Publish Date:** 2023-06-16**
 
 ##        
 ### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-divulapitiya-6498204)
-![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-16200239781.jpg)
+![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-1623382510801.jpg)
 Location:** Divulapitiya**
 Price (Rs):** Rs. 6,250,000 **
 Mileage (Km):**78000**
