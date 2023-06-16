@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-polgahawela-6498810)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-162250424631.jpg)
+Location:** Polgahawela**
+Price (Rs):** Rs. 4,350,000 **
+Mileage (Km):**97500**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota VITZ SAFETY EDITION 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-negombo-6498641)
 ![Toyota VITZ SAFETY EDITION 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2017-1621495512481.jpg)
 Location:** Negombo**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-16**
 Location:** Nittambuwa**
 Price (Rs):** Rs. 4,175,000 **
 Mileage (Km):**95000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6495786)
-![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-16114926641.jpg)
-Location:** Nugegoda**
-Price (Rs):** Rs. 6,290,000 **
-Mileage (Km):**75000**
 Publish Date:** 2023-06-16**
