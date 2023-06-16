@@ -8,6 +8,14 @@ Mileage (Km):**200000**
 Publish Date:** 2023-06-16**
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6495533)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-ksp90-2008-1611075112641.jpg)
+Location:** Negombo**
+Price (Rs):** Rs. 3,975,000 **
+Mileage (Km):**110000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495471)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610562712121.jpg)
 Location:** Gampaha**
