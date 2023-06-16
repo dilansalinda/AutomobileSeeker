@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6495939)
+![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-161214164361.jpg)
+Location:** Nittambuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**57000**
+Publish Date:** 2023-06-16**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495935)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1612135113001.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 425,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6495786)
 ![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-16114926641.jpg)
 Location:** Nugegoda**
@@ -69,14 +85,6 @@ Publish Date:** 2023-06-16**
 Location:** Panadura**
 Price (Rs):** Rs. 4,290,000 **
 Mileage (Km):**84000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6495471)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1610562712121.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,250,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
 ##        
