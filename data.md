@@ -136,6 +136,14 @@ Mileage (Km):**132000**
 Publish Date:** 2023-06-16**
 
 ##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6493746)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbdaihatsu-vitz-led-1670156381.jpg)
+Location:** Nittambuwa**
+Price (Rs):** Rs. 6,525,000 **
+Mileage (Km):**38000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6493661)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-166420122121.jpg)
 Location:** Kandy**
