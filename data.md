@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2005 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6496079)
+![Toyota Vitz 2005 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2005-1612385312461.jpg)
+Location:** Colombo**
+Price (Rs):** Rs. 3,650,000 **
+Mileage (Km):**105000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz 2010 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6496000)
 ![Toyota Vitz 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-161224554641.jpg)
 Location:** Nittambuwa**
