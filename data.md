@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6497791)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1618572612231.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,275,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-16**
+
+##        
 ### [Toyota Vitz1300cc 2007 Car](https://riyasewana.com/buy/toyota-vitz1300cc-sale-kurunegala-6497672)
 ![Toyota Vitz1300cc 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz1300cc-16183045931.jpg)
 Location:** Kurunegala**
@@ -37,14 +45,6 @@ Publish Date:** 2023-06-16**
 Location:** Colombo**
 Price (Rs):** Rs. 7,350,000 **
 Mileage (Km):**63000**
-Publish Date:** 2023-06-16**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6497543)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1617583112351.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,275,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-16**
 
 ##        
