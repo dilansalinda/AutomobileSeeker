@@ -1,5 +1,45 @@
 
 ##        
+### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-maharagama-6499499)
+![Toyota Vitz Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-17730484181.jpg)
+Location:** Maharagama**
+Price (Rs):** Rs. 6,350,000 **
+Mileage (Km):**81000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6499452)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-177262222611.jpg)
+Location:** Kandy**
+Price (Rs):** Negotiable **
+Mileage (Km):**52000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz Safety Edition 2015 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6499244)
+![Toyota Vitz Safety Edition 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-17655174801.jpg)
+Location:** Kurunegala**
+Price (Rs):** Rs. 5,775,000 **
+Mileage (Km):**62000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-horana-6499243)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-176551112791.jpg)
+Location:** Horana**
+Price (Rs):** Negotiable **
+Mileage (Km):**132000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-divulapitiya-6499228)
+![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-1765326721.jpg)
+Location:** Divulapitiya**
+Price (Rs):** Negotiable **
+Mileage (Km):**78000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-nattandiya-6499174)
 ![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2008-176442812851.jpg)
 Location:** Nattandiya**
