@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Push Start 2017 Car](https://riyasewana.com/buy/toyota-vitz-push-sale-colombo-6503487)
+![Toyota Vitz Push Start 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-push-171707224301.jpg)
+Location:** Colombo**
+Price (Rs):** Negotiable **
+Mileage (Km):**69500**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kurunegala-6503302)
 ![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-171618104071.jpg)
 Location:** Kurunegala**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Nittambuwa**
 Price (Rs):** Negotiable **
 Mileage (Km):**2023-06-17**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-wennappuwa-6500490)
-![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1790443581.jpg)
-Location:** Wennappuwa**
-Price (Rs):** Negotiable **
-Mileage (Km):**102000**
 Publish Date:** 2023-06-17**
