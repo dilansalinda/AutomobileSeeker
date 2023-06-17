@@ -179,7 +179,7 @@ Publish Date:** 2023-06-17**
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6502564)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1713325912601.jpg)
 Location:** Gampaha**
-Price (Rs):** Rs. 6,500,000 **
+Price (Rs):** Negotiable **
 Mileage (Km):**26000**
 Publish Date:** 2023-06-17**
 
