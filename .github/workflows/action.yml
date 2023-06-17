@@ -43,7 +43,7 @@ jobs:
           secure: true,
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
-          subject: 'AutoMobile Seeker'
+          subject: AutoMobile Seeker
           to: dilan2012salinda@gmail.com
           from: kubesonar@gmail.com
           html_body: 'dd'
