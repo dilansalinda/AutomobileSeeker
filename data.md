@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-badulla-6500417)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17857274751.jpg)
+Location:** Badulla**
+Price (Rs):** Rs. 3,875,000 **
+Mileage (Km):**90000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6500289)
 ![Toyota Vitz Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-178445112301.jpg)
 Location:** Kurunegala**
