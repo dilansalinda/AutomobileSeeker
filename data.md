@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-malabe-6501065)
+![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17101158661.jpg)
+Location:** Malabe**
+Price (Rs):** Rs. 6,890,000 **
+Mileage (Km):**87000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6500846)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-179454322021.jpg)
 Location:** Negombo**
