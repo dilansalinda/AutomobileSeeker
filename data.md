@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota VITZ EDITITON 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edititon-sale-gampaha-6502036)
+![Toyota VITZ EDITITON 2 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edititon-17120144591.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 7,350,000 **
+Mileage (Km):**44000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz Edition 2 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-colombo-6502006)
+![Toyota Vitz Edition 2 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1711583112251.jpg)
+Location:** Colombo**
+Price (Rs):** Negotiable **
+Mileage (Km):**71000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6501830)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1711390922131.jpg)
 Location:** Kandy**
