@@ -24,8 +24,8 @@ Mileage (Km):**125000**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota Vitz Car 2010 Car](https://riyasewana.com/buy/toyota-vitz-car-sale-kandy-6503242)
-![Toyota Vitz Car 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-car-2010-1716024512261.jpg)
+### [Toyota Vitz 2010 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6503242)
+![Toyota Vitz 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-car-2010-1716024512261.jpg)
 Location:** Kandy**
 Price (Rs):** Rs. 3,875,000 **
 Mileage (Km):**124000**
@@ -72,8 +72,8 @@ Mileage (Km):**64000**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nugegoda-6502923)
-![Toyota Vitz Edition 1 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1714433112691.jpg)
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6502923)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1714433112691.jpg)
 Location:** Nugegoda**
 Price (Rs):** Rs. 6,450,000 **
 Mileage (Km):**40500**
