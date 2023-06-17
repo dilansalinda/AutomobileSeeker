@@ -47,5 +47,4 @@ jobs:
           to: dilan2012salinda@gmail.com
           from: kubesonar@gmail.com
           html_body: 'dd'
-          convert_markdown: true
 
