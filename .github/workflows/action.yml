@@ -45,7 +45,7 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: 'AutoMobile Seeker'
           to: dilan2012salinda@gmail.com
-          from: Automobile 
+          from: kubesonar@gmail.com
           html_body: 'dd'
           convert_markdown: true
 
