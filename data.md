@@ -302,11 +302,3 @@ Location:** Kurunegala**
 Price (Rs):** Rs. 7,325,000 **
 Mileage (Km):**55000**
 Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz Safety Edition 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kelaniya-6502239)
-![Toyota Vitz Safety Edition 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2017-1712330212751.jpg)
-Location:** Kelaniya**
-Price (Rs):** Rs. 6,925,000 **
-Mileage (Km):**52000**
-Publish Date:** 2023-06-17**
