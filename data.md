@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-mawanella-6501574)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2015-1711055612371.jpg)
+Location:** Mawanella**
+Price (Rs):** Rs. 5,790,000 **
+Mileage (Km):**33500**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6501406)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vits-2007-1710452612981.jpg)
 Location:** Colombo**
