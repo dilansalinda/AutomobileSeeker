@@ -24,6 +24,14 @@ Mileage (Km):**55000**
 Publish Date:** 2023-06-17**
 
 ##        
+### [Toyota Vitz 8 2007 Car](https://riyasewana.com/buy/toyota-vitz-8-sale-maharagama-6500093)
+![Toyota Vitz 8 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-8-2007-178251612491.jpg)
+Location:** Maharagama**
+Price (Rs):** Rs. 4,410,000 **
+Mileage (Km):**190000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-matara-6500079)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-178232812461.jpg)
 Location:** Matara**
