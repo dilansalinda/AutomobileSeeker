@@ -99,7 +99,7 @@ Publish Date:** 2023-06-17**
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-maharagama-6500093)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-8-2007-178251612491.jpg)
 Location:** Maharagama**
-Price (Rs):** Rs. 4,410,000 **
+Price (Rs):** Rs. 4,400,000 **
 Mileage (Km):**190000**
 Publish Date:** 2023-06-17**
 
