@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz KSP90 2010 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-nawalapitiya-6499917)
+![Toyota Vitz KSP90 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2010-178091612381.jpg)
+Location:** Nawalapitiya**
+Price (Rs):** Rs. 4,350,000 **
+Mileage (Km):**99000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota VITZ 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-matale-6499708)
 ![Toyota VITZ 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-177510512331.jpg)
 Location:** Matale**
