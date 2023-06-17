@@ -152,14 +152,6 @@ Mileage (Km):**40500**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-katunayake-6502875)
-![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1714324712432.jpg)
-Location:** Katunayake**
-Price (Rs):** Negotiable **
-Mileage (Km):**44000**
-Publish Date:** 2023-06-17**
-
-##        
 ### [Toyota Vitz U Grade Limited 2008 Car](https://riyasewana.com/buy/toyota-vitz-u-sale-maharagama-6502802)
 ![Toyota Vitz U Grade Limited 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-u-2008-1714192112411.jpg)
 Location:** Maharagama**
@@ -317,4 +309,12 @@ Publish Date:** 2023-06-17**
 Location:** Kalutara**
 Price (Rs):** Rs. 4,575,000 **
 Mileage (Km):**128000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6501362)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1710403012201.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 5,875,000 **
+Mileage (Km):**88000**
 Publish Date:** 2023-06-17**
