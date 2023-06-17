@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota VITZ 2003 Car](https://riyasewana.com/buy/toyota-vitz-sale-kadawatha-6503261)
+![Toyota VITZ 2003 Car](//riyasewana.com/thumb/thumbtoyota-vitz-171609554451.jpg)
+Location:** Kadawatha**
+Price (Rs):** Rs. 2,895,000 **
+Mileage (Km):**125000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz Car 2010 Car](https://riyasewana.com/buy/toyota-vitz-car-sale-kandy-6503242)
 ![Toyota Vitz Car 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-car-2010-1716024512261.jpg)
 Location:** Kandy**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Badulla**
 Price (Rs):** Rs. 3,875,000 **
 Mileage (Km):**90000**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-kuliyapitiya-6500394)
-![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vizt-1785400458162.jpg)
-Location:** Kuliyapitiya**
-Price (Rs):** Rs. 3,930,000 **
-Mileage (Km):**3,930,000**
 Publish Date:** 2023-06-17**
