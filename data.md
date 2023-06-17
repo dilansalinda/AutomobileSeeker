@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kurunegala-6503302)
+![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-171618104071.jpg)
+Location:** Kurunegala**
+Price (Rs):** Rs. 6,500,000 **
+Mileage (Km):**70000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota VITZ 2003 Car](https://riyasewana.com/buy/toyota-vitz-sale-kadawatha-6503261)
 ![Toyota VITZ 2003 Car](//riyasewana.com/thumb/thumbtoyota-vitz-171609554451.jpg)
 Location:** Kadawatha**
@@ -17,7 +25,7 @@ Publish Date:** 2023-06-17**
 
 ##        
 ### [Toyota Vitz 1320 2013 Car](https://riyasewana.com/buy/toyota-vitz-1320-sale-horana-6503226)
-![Toyota Vitz 1320 2013 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1320-1716000017121.jpg)
+![Toyota Vitz 1320 2013 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1320-1716000017362.jpg)
 Location:** Horana**
 Price (Rs):** Rs. 5,450,000 **
 Mileage (Km):**87000**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Wennappuwa**
 Price (Rs):** Negotiable **
 Mileage (Km):**102000**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-badulla-6500417)
-![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17857274751.jpg)
-Location:** Badulla**
-Price (Rs):** Rs. 3,875,000 **
-Mileage (Km):**90000**
 Publish Date:** 2023-06-17**
