@@ -264,8 +264,8 @@ Mileage (Km):**38000**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota Vitz Edition 2 Car 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-divulapitiya-6499544)
-![Toyota Vitz Edition 2 Car 2018 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2018-177353512381.jpg)
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-divulapitiya-6499544)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2018-177353512381.jpg)
 Location:** Divulapitiya**
 Price (Rs):** Rs. 7,475,000 **
 Mileage (Km):**35000**
