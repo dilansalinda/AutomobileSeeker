@@ -16,14 +16,6 @@ Mileage (Km):**128000**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota VITZ EDITION 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-mawanella-6501365)
-![Toyota VITZ EDITION 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-1710404012731.jpg)
-Location:** Mawanella**
-Price (Rs):** Rs. 7,500,000 **
-Mileage (Km):**48000**
-Publish Date:** 2023-06-17**
-
-##        
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6501362)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1710403012201.jpg)
 Location:** Kandy**
