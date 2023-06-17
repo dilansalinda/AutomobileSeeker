@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-divulapitiya-6503602)
+![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-17173427441.jpg)
+Location:** Divulapitiya**
+Price (Rs):** Rs. 6,050,000 **
+Mileage (Km):**78000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota VITZ 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-boralesgamuwa-6503575)
+![Toyota VITZ 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-full-17172913261.jpg)
+Location:** Boralesgamuwa**
+Price (Rs):** Rs. 7,490,000 **
+Mileage (Km):**64987**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6503487)
 ![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-push-171707224301.jpg)
 Location:** Colombo**
@@ -32,8 +48,8 @@ Mileage (Km):**124000**
 Publish Date:** 2023-06-17**
 
 ##        
-### [Toyota Vitz 1320 2013 Car](https://riyasewana.com/buy/toyota-vitz-1320-sale-horana-6503226)
-![Toyota Vitz 1320 2013 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1320-1716000017362.jpg)
+### [Toyota Vitz 2013 Car](https://riyasewana.com/buy/toyota-vitz-sale-horana-6503226)
+![Toyota Vitz 2013 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1320-1716000017362.jpg)
 Location:** Horana**
 Price (Rs):** Rs. 5,450,000 **
 Mileage (Km):**87000**
@@ -301,20 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Wennappuwa**
 Price (Rs):** Negotiable **
 Mileage (Km):**134700**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6500684)
-![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-179263812691.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,175,000 **
-Mileage (Km):**141000**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6500535)
-![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17910024791.jpg)
-Location:** Nittambuwa**
-Price (Rs):** Negotiable **
-Mileage (Km):**2023-06-17**
 Publish Date:** 2023-06-17**
