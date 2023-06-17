@@ -47,4 +47,3 @@ jobs:
             subject: test.
             body: file://data.md
             contentType: text/html
-            attachments: file://README.md
