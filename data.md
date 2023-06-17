@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6501830)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1711390922131.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 5,690,000 **
+Mileage (Km):**80000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz SCP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-scp90-sale-nugegoda-6501779)
+![Toyota Vitz SCP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-scp90-17113311711.jpg)
+Location:** Nugegoda**
+Price (Rs):** Rs. 4,300,000 **
+Mileage (Km):**167000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-mawanella-6501574)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2015-1711055612371.jpg)
 Location:** Mawanella**
