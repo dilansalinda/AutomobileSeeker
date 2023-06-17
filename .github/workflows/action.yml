@@ -45,5 +45,5 @@ jobs:
             from: ${{secrets.MAIL_ADDRESS}}
             to: dilan2012salinda@gmail.com
             subject: test.
-            body: file://data.md
-            contentType: text/html
+            body: test
+            contentType: text/plain
