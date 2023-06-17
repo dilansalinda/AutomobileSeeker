@@ -35,15 +35,17 @@ jobs:
         id: auto-commit-action
 
       - name: Send email
-        uses: devellany/send-mail@v1.0.2
+
+        uses: dawidd6/action-send-mail@v3
         with:
-            host: smtp.google.com
-            port: 465
-            account: ${{secrets.ACCOUNT}}
-            password: ${{secrets.MAIL_PASSWORD}}
-            sender: Dilan
-            from: ${{secrets.MAIL_ADDRESS}}
-            to: dilan2012salinda@gmail.com
-            subject: test.
-            body: test
-            contentType: text/plain
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true,
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject: 'AutoMobile Seeker'
+          to: dilan2012salinda@gmail.com
+          from: Automobile 
+          html_body: 'dd'
+          convert_markdown: true
+
