@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-nittambuwa-6500535)
+![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17910024791.jpg)
+Location:** Nittambuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**2023-06-17**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-wennappuwa-6500490)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1790443581.jpg)
+Location:** Wennappuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**102000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-badulla-6500417)
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-17857274751.jpg)
 Location:** Badulla**
