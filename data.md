@@ -1,7 +1,7 @@
 
 ##        
-### [Toyota Vitz Push Start 2017 Car](https://riyasewana.com/buy/toyota-vitz-push-sale-colombo-6503487)
-![Toyota Vitz Push Start 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-push-171707224301.jpg)
+### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6503487)
+![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-push-171707224301.jpg)
 Location:** Colombo**
 Price (Rs):** Negotiable **
 Mileage (Km):**69500**
