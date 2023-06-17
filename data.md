@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-kurunegala-6504844)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-172345184341.jpg)
+Location:** Kurunegala**
+Price (Rs):** Negotiable **
+Mileage (Km):**96758**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz Ksp90 2010 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-colombo-6504749)
 ![Toyota Vitz Ksp90 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2010-1722335812301.jpg)
 Location:** Colombo**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Kelaniya**
 Price (Rs):** Rs. 6,925,000 **
 Mileage (Km):**52000**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz SCP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-scp90-sale-ratnapura-6502233)
-![Toyota Vitz SCP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2008-1712324412941.jpg)
-Location:** Ratnapura**
-Price (Rs):** Rs. 4,775,000 **
-Mileage (Km):**121000**
 Publish Date:** 2023-06-17**
