@@ -24,6 +24,14 @@ Mileage (Km):**74000**
 Publish Date:** 2023-06-17**
 
 ##        
+### [Toyota Vitz Sedan 2003 Car](https://riyasewana.com/buy/toyota-vitz-sedan-sale-mawanella-6504014)
+![Toyota Vitz Sedan 2003 Car](//riyasewana.com/thumb/thumbtoyota-platz-1719165322461.jpg)
+Location:** Mawanella**
+Price (Rs):** Rs. 2,575,000 **
+Mileage (Km):**194000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6503931)
 ![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-1718560812991.jpg)
 Location:** Gampaha**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-17**
 Location:** Kalutara**
 Price (Rs):** Rs. 4,575,000 **
 Mileage (Km):**128000**
-Publish Date:** 2023-06-17**
-
-##        
-### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6501362)
-![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1710403012201.jpg)
-Location:** Kandy**
-Price (Rs):** Rs. 5,875,000 **
-Mileage (Km):**88000**
 Publish Date:** 2023-06-17**
