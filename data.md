@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-nattandiya-6499174)
+![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2008-176442812851.jpg)
+Location:** Nattandiya**
+Price (Rs):** Negotiable **
+Mileage (Km):**145000**
+Publish Date:** 2023-06-17**
+
+##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-eheliyagoda-6499171)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-176431712461.jpg)
+Location:** Eheliyagoda**
+Price (Rs):** Negotiable **
+Mileage (Km):**133000**
+Publish Date:** 2023-06-17**
+
+##        
 ### [Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nugegoda-6499097)
 ![Toyota Vitz Edition 1 Safety 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-176241812081.jpg)
 Location:** Nugegoda**
