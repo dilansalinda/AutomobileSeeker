@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-galle-6506008)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vits-2007-188521312551.jpg)
+Location:** Galle**
+Price (Rs):** Rs. 4,100,000 **
+Mileage (Km):**82000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz Safety Edition 2 2019 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-kurunegala-6505999)
 ![Toyota Vitz Safety Edition 2 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-2019-188513212361.jpg)
 Location:** Kurunegala**
