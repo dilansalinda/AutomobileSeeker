@@ -1,6 +1,7 @@
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 from email import encoders
+from email.mime.text import MIMEText
 import smtplib 
 import os
 import logging
@@ -24,6 +25,7 @@ part = MIMEBase('application', "octet-stream")
 part.set_payload(open("data.html", "rb").read())
 encoders.encode_base64(part)
 part.add_header('Content-Disposition', 'attachment; filename="data.html"')
+msg.attach(MIMEText("data.html", "html"))
 msg.attach(part)
 
 logging.info('username '+USERNAME)
