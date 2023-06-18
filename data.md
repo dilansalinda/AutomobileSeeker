@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 8 2008 Car](https://riyasewana.com/buy/toyota-vitz-8-sale-galle-6506536)
+![Toyota Vitz 8 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-8-2008-189595812351.jpg)
+Location:** Galle**
+Price (Rs):** Rs. 4,075,000 **
+Mileage (Km):**95000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2000 Car](https://riyasewana.com/buy/toyota-vitz-sale-piliyandala-6506373)
 ![Toyota Vitz 2000 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2000-189371812511.jpg)
 Location:** Piliyandala**
