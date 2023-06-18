@@ -1,5 +1,29 @@
 
 ##        
+### [Toyota Vitz KSP130 2015 Car](https://riyasewana.com/buy/toyota-vitz-ksp130-sale-kandy-6508380)
+![Toyota Vitz KSP130 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp130-2015-1816231212531.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 5,850,000 **
+Mileage (Km):**73000**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6508374)
+![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-1816203912431.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 6,150,000 **
+Mileage (Km):**75000**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota Vitz Ksp 2019 Car](https://riyasewana.com/buy/toyota-vitz-ksp-sale-horana-6508364)
+![Toyota Vitz Ksp 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-181616264081.jpg)
+Location:** Horana**
+Price (Rs):** Negotiable **
+Mileage (Km):**2023-06-18**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-kuliyapitiya-6508324)
 ![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1816035712821.jpg)
 Location:** Kuliyapitiya**
@@ -293,28 +317,4 @@ Publish Date:** 2023-06-18**
 Location:** Kandy**
 Price (Rs):** Rs. 3,990,000 **
 Mileage (Km):**116000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz1300cc 2007 Car](https://riyasewana.com/buy/toyota-vitz1300cc-sale-kurunegala-6505295)
-![Toyota Vitz1300cc 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz1300cc-187461110321.jpg)
-Location:** Kurunegala**
-Price (Rs):** Negotiable **
-Mileage (Km):**151000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz 2000 Car](https://riyasewana.com/buy/toyota-vitz-sale-moratuwa-6505268)
-![Toyota Vitz 2000 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1871647921.jpg)
-Location:** Moratuwa**
-Price (Rs):** Rs. 2,875,000 **
-Mileage (Km):**184000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz KSP90 2010 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-kandy-6505243)
-![Toyota Vitz KSP90 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2010-187113712511.jpg)
-Location:** Kandy**
-Price (Rs):** Rs. 4,350,000 **
-Mileage (Km):**99000**
 Publish Date:** 2023-06-18**
