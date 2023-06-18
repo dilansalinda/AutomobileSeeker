@@ -14,7 +14,7 @@ USERNAME = os.environ.get('MAIL_USERNAME')
 PASSWORD = os.environ.get('MAIL_PASSWORD')
 
 markdown.markdownFromFile(input='data.md', output='data.html')
-dataset = open(data.html, 'r').read()
+dataset = open("data.html", 'r').read()
 #  html = BeautifulSoup(data.md, 'html.parser')
 # print(soup.get_text())
 
