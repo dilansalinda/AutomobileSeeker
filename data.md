@@ -19,7 +19,7 @@ Publish Date:** 2023-06-18**
 ### [Toyota VITZ Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kandy-6507405)
 ![Toyota VITZ Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-1812205612391.jpg)
 Location:** Kandy**
-Price (Rs):** Negotiable **
+Price (Rs):** Rs. 8,100,000 **
 Mileage (Km):**9750**
 Publish Date:** 2023-06-18**
 
