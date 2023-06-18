@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz Edition 2 Car 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-divulapitiya-6507010)
+![Toyota Vitz Edition 2 Car 2018 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2018-1811082712781.jpg)
+Location:** Divulapitiya**
+Price (Rs):** Rs. 7,475,000 **
+Mileage (Km):**35000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota VITZ 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6506979)
 ![Toyota VITZ 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1811023222351.jpg)
 Location:** Negombo**
