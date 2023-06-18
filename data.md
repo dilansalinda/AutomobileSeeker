@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-kegalle-6507121)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1811283522071.jpg)
+Location:** Kegalle**
+Price (Rs):** Rs. 5,750,000 **
+Mileage (Km):**73000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz Edition 2 Car 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-divulapitiya-6507010)
 ![Toyota Vitz Edition 2 Car 2018 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2018-1811082712781.jpg)
 Location:** Divulapitiya**
