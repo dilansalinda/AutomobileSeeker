@@ -34,8 +34,8 @@ jobs:
           commit_message: Update data.md
         id: auto-commit-action
 
-      - name: Send email
+      - name: Send email Script
         env:
-          USER_EMAIL: ${{ secrets.MAIL_USERNAME }}
-          USER_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
         run: python send_email.py

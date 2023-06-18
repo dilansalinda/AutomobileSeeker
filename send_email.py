@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email import encoders
 import smtplib 
 import os
-
+import logging
 
 port = 465
 smtp_server = "smtp.gmail.com"
@@ -16,6 +16,8 @@ part.set_payload(open("data.md", "rb").read())
 encoders.encode_base64(part)
 part.add_header('Content-Disposition', 'attachment; filename="data.md"')
 msg.attach(part)
+
+logging.info('username '+USERNAME)
 
 server = smtplib.SMTP_SSL(smtp_server, port)
 server.login("myrockemail@gmail.com","pvbrhwpdcikrvale")
