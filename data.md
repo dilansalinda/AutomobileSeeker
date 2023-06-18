@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-kuliyapitiya-6508324)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1816035712821.jpg)
+Location:** Kuliyapitiya**
+Price (Rs):** Rs. 3,985,000 **
+Mileage (Km):**118000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2012 Car](https://riyasewana.com/buy/toyota-vitz-sale-kuliyapitiya-6508207)
 ![Toyota Vitz 2012 Car](//riyasewana.com/thumb/thumbtoyota-vitz-18152827881.jpg)
 Location:** Kuliyapitiya**
@@ -309,12 +317,4 @@ Publish Date:** 2023-06-18**
 Location:** Kandy**
 Price (Rs):** Rs. 4,350,000 **
 Mileage (Km):**99000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-kalutara-6505181)
-![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-18702024611.jpg)
-Location:** Kalutara**
-Price (Rs):** Rs. 4,100,000 **
-Mileage (Km):**117000**
 Publish Date:** 2023-06-18**
