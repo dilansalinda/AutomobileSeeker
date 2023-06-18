@@ -312,9 +312,9 @@ Mileage (Km):**99000**
 Publish Date:** 2023-06-18**
 
 ##        
-### [Toyota Vitz 2010 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6505110)
-![Toyota Vitz 2010 Car](//riyasewana.com/thumb/thumbtoyota-bitz-2010-186484812021.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 3,950,000 **
-Mileage (Km):**160000**
+### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-kalutara-6505181)
+![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp-18702024611.jpg)
+Location:** Kalutara**
+Price (Rs):** Rs. 4,100,000 **
+Mileage (Km):**117000**
 Publish Date:** 2023-06-18**
