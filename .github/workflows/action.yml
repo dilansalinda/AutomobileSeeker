@@ -35,7 +35,6 @@ jobs:
         id: auto-commit-action
 
       - name: Send email
-
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -45,6 +44,5 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: AutoMobile Seeker
           to: dilan2012salinda@gmail.com
-          from: kubesonar@gmail.com
+          from: myrockemail@gmail.com
           html_body: 'dd'
-
