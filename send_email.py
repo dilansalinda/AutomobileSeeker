@@ -6,12 +6,18 @@ import os
 import logging
 import markdown
 
+
+
 port = 465
 smtp_server = "smtp.gmail.com"
 USERNAME = os.environ.get('MAIL_USERNAME')
 PASSWORD = os.environ.get('MAIL_PASSWORD')
 
 markdown.markdownFromFile(input='data.md', output='data.html')
+dataset = open(data.html, 'r').read()
+#  html = BeautifulSoup(data.md, 'html.parser')
+# print(soup.get_text())
+
 
 msg = MIMEMultipart()
 part = MIMEBase('application', "octet-stream")
@@ -27,5 +33,6 @@ server.login(USERNAME,PASSWORD)
 server.sendmail(
   "myrockemail@gmail.com", 
   "kubesonar@gmail.com", 
-  msg.as_string())
+  dataset)
 server.quit()
+
