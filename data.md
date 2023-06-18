@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2010 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6505110)
+![Toyota Vitz 2010 Car](//riyasewana.com/thumb/thumbtoyota-bitz-2010-186484812021.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 3,950,000 **
+Mileage (Km):**160000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6504979)
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-18639466291.jpg)
 Location:** Colombo**
