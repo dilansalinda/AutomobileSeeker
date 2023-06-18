@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz KSP90 2010 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-kandy-6505243)
+![Toyota Vitz KSP90 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2010-187113712511.jpg)
+Location:** Kandy**
+Price (Rs):** Rs. 4,350,000 **
+Mileage (Km):**99000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2010 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6505110)
 ![Toyota Vitz 2010 Car](//riyasewana.com/thumb/thumbtoyota-bitz-2010-186484812021.jpg)
 Location:** Gampaha**
