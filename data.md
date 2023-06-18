@@ -1,5 +1,29 @@
 
 ##        
+### [Toyota Vitz 2000 Car](https://riyasewana.com/buy/toyota-vitz-sale-piliyandala-6506373)
+![Toyota Vitz 2000 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2000-189371812511.jpg)
+Location:** Piliyandala**
+Price (Rs):** Rs. 2,590,000 **
+Mileage (Km):**140000**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6506321)
+![Toyota Vitz 2017 Car](//riyasewana.com/thumb/thumbtoyota-vitz-18931304691.jpg)
+Location:** Gampaha**
+Price (Rs):** Negotiable **
+Mileage (Km):**2023-06-18**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6506298)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-189291212251.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,275,000 **
+Mileage (Km):**97000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-mawanella-6506096)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2015-189034512261.jpg)
 Location:** Mawanella**
@@ -112,14 +136,6 @@ Mileage (Km):**146000**
 Publish Date:** 2023-06-18**
 
 ##        
-### [Toyota Vitz Safety 2016 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-divulapitiya-6505360)
-![Toyota Vitz Safety 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-safety-1872843701.jpg)
-Location:** Divulapitiya**
-Price (Rs):** Negotiable **
-Mileage (Km):**78000**
-Publish Date:** 2023-06-18**
-
-##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6505336)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-18725504831.jpg)
 Location:** Colombo**
@@ -157,14 +173,6 @@ Publish Date:** 2023-06-18**
 Location:** Moratuwa**
 Price (Rs):** Rs. 2,875,000 **
 Mileage (Km):**184000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6505261)
-![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-187151812641.jpg)
-Location:** Gampaha**
-Price (Rs):** Rs. 4,275,000 **
-Mileage (Km):**97000**
 Publish Date:** 2023-06-18**
 
 ##        
