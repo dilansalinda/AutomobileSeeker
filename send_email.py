@@ -1,6 +1,6 @@
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
-from email import Encoders
+from email import encoders
 import smtplib 
 import os
 
@@ -13,7 +13,7 @@ PASSWORD = os.environ.get('MAIL_PASSWORD')
 msg = MIMEMultipart()
 part = MIMEBase('application', "octet-stream")
 part.set_payload(open("file://data.md", "rb").read())
-Encoders.encode_base64(part)
+encoders.encode_base64(part)
 part.add_header('Content-Disposition', 'attachment; filename="file://data.md"')
 msg.attach(part)
 
