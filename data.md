@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2007 Car](https://riyasewana.com/buy/toyota-vitz-sale-moratuwa-6506859)
+![Toyota Vitz 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2007-1810455012461.jpg)
+Location:** Moratuwa**
+Price (Rs):** Rs. 4,050,000 **
+Mileage (Km):**168000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-horana-6506769)
 ![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1810321212671.jpg)
 Location:** Horana**
