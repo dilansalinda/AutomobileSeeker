@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitz KSP90 2008 Car](https://riyasewana.com/buy/toyota-vitz-ksp90-sale-eheliyagoda-6505738)
+![Toyota Vitz KSP90 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-ksp90-2008-188205712631.jpg)
+Location:** Eheliyagoda**
+Price (Rs):** Negotiable **
+Mileage (Km):**133000**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-gampaha-6505692)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-188143912031.jpg)
+Location:** Gampaha**
+Price (Rs):** Rs. 4,450,000 **
+Mileage (Km):**1065000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-wattala-6505606)
 ![Toyota Vitz 2016 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2016-188012912011.jpg)
 Location:** Wattala**
@@ -9,7 +25,7 @@ Publish Date:** 2023-06-18**
 
 ##        
 ### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-horana-6505590)
-![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-187593712771.jpg)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-188173017211.jpg)
 Location:** Horana**
 Price (Rs):** Negotiable **
 Mileage (Km):**132000**
