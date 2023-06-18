@@ -81,7 +81,7 @@ Publish Date:** 2023-06-18**
 
 ##        
 ### [Toyota Vitz 2019 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6505457)
-![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2019-187402512721.jpg)
+![Toyota Vitz 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2019-187402512502.jpg)
 Location:** Colombo**
 Price (Rs):** Rs. 7,600,000 **
 Mileage (Km):**48000**
