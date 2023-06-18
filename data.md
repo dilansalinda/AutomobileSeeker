@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-horana-6506769)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2008-1810321212671.jpg)
+Location:** Horana**
+Price (Rs):** Rs. 3,900,000 **
+Mileage (Km):**140000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6506728)
 ![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1810253022291.jpg)
 Location:** Negombo**
@@ -41,7 +49,7 @@ Publish Date:** 2023-06-18**
 
 ##        
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6506540)
-![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-1810003712761.jpg)
+![Toyota Vitz 2018 Car](//riyasewana.com/thumb/thumbtoyota-vitz-2018-181000371276120.jpg)
 Location:** Negombo**
 Price (Rs):** Rs. 7,485,000 **
 Mileage (Km):**43000**
