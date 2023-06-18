@@ -1,7 +1,7 @@
 
 ##        
-### [Toyota Vitz 1300cc 2008 Car](https://riyasewana.com/buy/toyota-vitz-1300cc-sale-colombo-6504979)
-![Toyota Vitz 1300cc 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1300cc-18613264471.jpg)
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-colombo-6504979)
+![Toyota Vitz 2008 Car](//riyasewana.com/thumb/thumbtoyota-vitz-18639466291.jpg)
 Location:** Colombo**
 Price (Rs):** Rs. 4,750,000 **
 Mileage (Km):**80000**
