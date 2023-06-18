@@ -1,5 +1,21 @@
 
 ##        
+### [Toyota Vitzker 2010 Car](https://riyasewana.com/buy/toyota-vitzker-sale-kandana-6508736)
+![Toyota Vitzker 2010 Car](//riyasewana.com/thumb/thumbtoyota-vitz-6spker-2010-1817571212701.jpg)
+Location:** Kandana**
+Price (Rs):** Rs. 4,575,000 **
+Mileage (Km):**104**
+Publish Date:** 2023-06-18**
+
+##        
+### [Toyota VITZ Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-wennappuwa-6508732)
+![Toyota VITZ Safety 2017 Car](//riyasewana.com/thumb/thumbtoyota-toyota-vitz-2017-1817565212781.jpg)
+Location:** Wennappuwa**
+Price (Rs):** Negotiable **
+Mileage (Km):**63000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz 2002 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6508649)
 ![Toyota Vitz 2002 Car](//riyasewana.com/thumb/thumbno_100.jpg)
 Location:** Kandy**
@@ -301,20 +317,4 @@ Publish Date:** 2023-06-18**
 Location:** Kandy**
 Price (Rs):** Rs. 3,990,000 **
 Mileage (Km):**116000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz1300cc 2007 Car](https://riyasewana.com/buy/toyota-vitz1300cc-sale-kurunegala-6505295)
-![Toyota Vitz1300cc 2007 Car](//riyasewana.com/thumb/thumbtoyota-vitz1300cc-187461110321.jpg)
-Location:** Kurunegala**
-Price (Rs):** Negotiable **
-Mileage (Km):**151000**
-Publish Date:** 2023-06-18**
-
-##        
-### [Toyota Vitz 2000 Car](https://riyasewana.com/buy/toyota-vitz-sale-moratuwa-6505268)
-![Toyota Vitz 2000 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1871647921.jpg)
-Location:** Moratuwa**
-Price (Rs):** Rs. 2,875,000 **
-Mileage (Km):**184000**
 Publish Date:** 2023-06-18**
