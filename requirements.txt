@@ -1,4 +1,4 @@
 beautifulsoup4==4.12.2
 requests>=2.31.0
 smtplib
-1.16==1.16
+ssl==1.16
