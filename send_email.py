@@ -4,17 +4,20 @@ from email import encoders
 import smtplib 
 import os
 import logging
+import markdown
 
 port = 465
 smtp_server = "smtp.gmail.com"
 USERNAME = os.environ.get('MAIL_USERNAME')
 PASSWORD = os.environ.get('MAIL_PASSWORD')
 
+markdown.markdownFromFile(input='data.md', output='data.html')
+
 msg = MIMEMultipart()
 part = MIMEBase('application', "octet-stream")
-part.set_payload(open("data.md", "rb").read())
+part.set_payload(open("data.html", "rb").read())
 encoders.encode_base64(part)
-part.add_header('Content-Disposition', 'attachment; filename="data.md"')
+part.add_header('Content-Disposition', 'attachment; filename="data.html"')
 msg.attach(part)
 
 logging.info('username '+USERNAME)
