@@ -20,7 +20,7 @@ msg.attach(part)
 logging.info('username '+USERNAME)
 
 server = smtplib.SMTP_SSL(smtp_server, port)
-server.login("myrockemail@gmail.com","pvbrhwpdcikrvale")
+server.login(USERNAME,PASSWORD)
 server.sendmail(
   "myrockemail@gmail.com", 
   "kubesonar@gmail.com", 
