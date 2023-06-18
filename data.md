@@ -1,5 +1,13 @@
 
 ##        
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-negombo-6506728)
+![Toyota Vitz 2015 Car](//riyasewana.com/thumb/thumbtoyota-vitz-1810253022291.jpg)
+Location:** Negombo**
+Price (Rs):** Rs. 5,850,000 **
+Mileage (Km):**103000**
+Publish Date:** 2023-06-18**
+
+##        
 ### [Toyota Vitz Edition 3 2019 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kurunegala-6506674)
 ![Toyota Vitz Edition 3 2019 Car](//riyasewana.com/thumb/thumbtoyota-vitz-edition-2019-1810184612881.jpg)
 Location:** Kurunegala**
