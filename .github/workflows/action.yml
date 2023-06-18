@@ -35,14 +35,7 @@ jobs:
         id: auto-commit-action
 
       - name: Send email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true,
-          username: ${{secrets.MAIL_USERNAME}}
-          password: ${{secrets.MAIL_PASSWORD}}
-          subject: AutoMobile Seeker
-          to: dilan2012salinda@gmail.com
-          from: myrockemail@gmail.com
-          html_body: 'dd'
+        env:
+          USER_EMAIL: ${{ secrets.MAIL_USERNAME }}
+          USER_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        run: python send_email.py
