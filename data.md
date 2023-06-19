@@ -29,11 +29,11 @@ Mileage (Km): **130000**
 Publish Date: **2023-06-19**
 
 
-<!-- ba7e7377608081463835be19b159d7ad -->
+<!-- 701d8dfa5f71c45e5e68890043e662c2 -->
 
-### [Toyota Vitz Edition 2015 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-kandy-6514383)
+### [Toyota Vitz 2015 Car](https://riyasewana.com/buy/toyota-vitz-sale-kandy-6514383)
 
-![Toyota Vitz Edition 2015 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-smart-2015-1922314612791.jpg)
+![Toyota Vitz 2015 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-smart-2015-1922314612791.jpg)
 
 Location: **Kandy**
 
@@ -119,11 +119,11 @@ Mileage (Km): **38000**
 Publish Date: **2023-06-19**
 
 
-<!-- 942261b472ef076198f9d1fed019a296 -->
+<!-- 81fec4ab2146fafa857851ea580f3f8e -->
 
-### [Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-nugegoda-6513688)
+### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-nugegoda-6513688)
 
-![Toyota Vitz Edition 1 Safety 2018 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1919173112851.jpg)
+![Toyota Vitz 2018 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-edition-2018-1919173112851.jpg)
 
 Location: **Nugegoda**
 
@@ -134,11 +134,11 @@ Mileage (Km): **40500**
 Publish Date: **2023-06-19**
 
 
-<!-- 9adaf15594557734ccc3e1b433b147f7 -->
+<!-- 64635da9352f490fe5ca15de78f0395b -->
 
 ### [Toyota Vitz 2017 Car](https://riyasewana.com/buy/toyota-vitz-sale-ratnapura-6513653)
 
-![Toyota Vitz 2017 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-191910084931.jpg)
+![Toyota Vitz 2017 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-1919100849314.jpg)
 
 Location: **Ratnapura**
 
