@@ -1,4 +1,36 @@
 
+<!-- c239cec135a742000e73541fed618036 -->
+
+##
+### [Toyota Vitz 2005 Car](https://riyasewana.com/buy/toyota-vitz-sale-dehiwala-mount-lavinia-6513300)
+
+![Toyota Vitz 2005 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-2005-1611154412191.jpg)
+
+Location: **Dehiwala-Mount-Lavinia**
+
+Price (Rs): **Rs. 3,675,000**
+
+Mileage (Km): **95500**
+
+Publish Date: **2023-06-19**
+
+
+<!-- f17f1bbb9d5a19c16f55bec2b67565e9 -->
+
+##
+### [Toyota Vitz 2008 Car](https://riyasewana.com/buy/toyota-vitz-sale-wennappuwa-6513266)
+
+![Toyota Vitz 2008 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-2008-1917280012711.jpg)
+
+Location: **Wennappuwa**
+
+Price (Rs): **Rs. 4,350,000**
+
+Mileage (Km): **125000**
+
+Publish Date: **2023-06-19**
+
+
 <!-- 96f937a989f964d1df933665b59d2bf4 -->
 
 ##
@@ -603,38 +635,6 @@ Location: **Colombo**
 Price (Rs): **Rs. 4,750,000**
 
 Mileage (Km): **800150**
-
-Publish Date: **2023-06-19**
-
-
-<!-- c55a76e3967aa2750923a2583f4924c3 -->
-
-##
-### [Toyota Vitz 2016 Car](https://riyasewana.com/buy/toyota-vitz-sale-wennappuwa-6510534)
-
-![Toyota Vitz 2016 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-1983948142.jpg)
-
-Location: **Wennappuwa**
-
-Price (Rs): **Negotiable**
-
-Mileage (Km): **102000**
-
-Publish Date: **2023-06-19**
-
-
-<!-- 7d20dfeefd0d9fa777f99f62f9ba65d8 -->
-
-##
-### [Toyota Vitz Safety 2017 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-maharagama-6510365)
-
-![Toyota Vitz Safety 2017 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-safety-19813294331.jpg)
-
-Location: **Maharagama**
-
-Price (Rs): **Rs. 6,350,000**
-
-Mileage (Km): **81000**
 
 Publish Date: **2023-06-19**
 
