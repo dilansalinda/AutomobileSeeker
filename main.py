@@ -55,7 +55,6 @@ def extract_data(html):
         data += f"""
 <!-- {item_hash} -->
 
-##
 ### [{Name}]({itemLink})
 
 ![{Name}]({itemImageLink})
