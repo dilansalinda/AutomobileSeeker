@@ -54,12 +54,16 @@ def extract_data(html):
         data += """
 ##        
 ### [{}]({})
-![{}]('https:'+{})
+[{}]('https:'+{})
 
 Location:**{}**
+
 Price (Rs):**{} **
+
 Mileage (Km):**{}**
+
 Publish Date:**{}**
+
 """.format(itemName, itemLink, itemName,itemImageLink,itemLocation,itemPrice,itemMilage,itemPublishedDate)
 
     return data
