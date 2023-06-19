@@ -33,8 +33,25 @@ jobs:
           commit_message: Update data.md
         id: auto-commit-action
 
-      - name: Send email Script
-        env:
-          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
-          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
-        run: python send_email.py
+      - name: Email HackerNews DIYgest
+        id: sending_email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          subject: TEST
+          from: cube sonar
+          to: dilan2012salinda@gmail.com
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          body: file://data.md
+          html_body: file://data.md
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          ignore_cert: true
+          priority: high
+
+      # - name: Send email Script
+      #   env:
+      #     MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+      #     MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      #   run: python send_email.py
