@@ -623,3 +623,18 @@ Mileage (Km): **81000**
 Publish Date: **2023-06-19**
 
 
+<!-- 0f6dd847c077dc5407778c219175b03d -->
+
+##
+### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-gampaha-6510305)
+
+![Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-edition-198055911.jpg)
+
+Location: **Gampaha**
+
+Price (Rs): **Rs. 7,300,000**
+
+Mileage (Km): **58000**
+
+Publish Date: **2023-06-19**
+
