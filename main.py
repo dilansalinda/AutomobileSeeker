@@ -58,7 +58,7 @@ def extract_data(html):
 ##        
 ### [{}]({})
 
-![{}][{}]
+![{}]({})
 
 Location: **{}**
 
