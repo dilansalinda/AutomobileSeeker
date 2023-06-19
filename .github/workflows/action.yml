@@ -49,6 +49,7 @@ jobs:
           secure: true
           ignore_cert: true
           priority: high
+          convert_markdown: true
 
       # - name: Send email Script
       #   env:
