@@ -1,7 +1,8 @@
 name: AutoMobile Seeker Actions
 
 on: 
-# Runs every other minutes 
+  schedule:
+      - cron: '0 */2 * * *'  # Runs every 2 hours
   workflow_dispatch:
 jobs:
   build:
