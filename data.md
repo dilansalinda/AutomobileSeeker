@@ -1,4 +1,20 @@
 
+<!-- 96f937a989f964d1df933665b59d2bf4 -->
+
+##
+### [Toyota Vitz Safety Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-safety-sale-dankotuwa-6513155)
+
+![Toyota Vitz Safety Edition 2 2018 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-safety-2018-1916560312971.jpg)
+
+Location: **Dankotuwa**
+
+Price (Rs): **Rs. 7,375,000**
+
+Mileage (Km): **65300**
+
+Publish Date: **2023-06-19**
+
+
 <!-- bb85472ccae53be03cd8ded2c95dac08 -->
 
 ##
@@ -159,7 +175,7 @@ Mileage (Km): **20000**
 Publish Date: **2023-06-19**
 
 
-<!-- 528acbf4c50760e894efc2ea86c0e215 -->
+<!-- 2fb1747eb2e769b6e07ad5053e3b62e8 -->
 
 ##
 ### [Toyota Vitz 2018 Car](https://riyasewana.com/buy/toyota-vitz-sale-kotte-6512173)
@@ -168,7 +184,7 @@ Publish Date: **2023-06-19**
 
 Location: **Kotte**
 
-Price (Rs): **Rs. 650,000**
+Price (Rs): **Rs. 6,500,000**
 
 Mileage (Km): **114055**
 
@@ -619,22 +635,6 @@ Location: **Maharagama**
 Price (Rs): **Rs. 6,350,000**
 
 Mileage (Km): **81000**
-
-Publish Date: **2023-06-19**
-
-
-<!-- 0f6dd847c077dc5407778c219175b03d -->
-
-##
-### [Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/buy/toyota-vitz-edition-sale-gampaha-6510305)
-
-![Toyota Vitz Edition 2 2018 Car](https://riyasewana.com/thumb/thumbtoyota-vitz-edition-198055911.jpg)
-
-Location: **Gampaha**
-
-Price (Rs): **Rs. 7,300,000**
-
-Mileage (Km): **58000**
 
 Publish Date: **2023-06-19**
 
