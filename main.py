@@ -25,37 +25,40 @@ def extract_data(html):
     items = categories_html.find_all("li", {"class": "item"})
 
     for item in items:
-        itemPublishedDate = item.find('div', {"class": "s"}).text
         itemLinkH2 = item.find('h2', {"class": "more"})
         itemLink = ''
         
         for tag in itemLinkH2.findAll("a", href=True):
                 itemLink =tag['href']
                 
-        itemPublishedDateStripped = re.sub(' +', ' ', itemPublishedDate).strip()
+        PublishedDate = re.sub(' +', ' ', item.find('div', {"class": "s"}).text).strip()
        # Skip records that don't have the current date
-        if itemPublishedDateStripped != today:
+        if PublishedDate != today:
             continue
 
-        itemName = item.find('h2', {"class": "more"}).text
+        Name = item.find('h2', {"class": "more"}).text
         itemImage = item.find('div')
         itemImageLink = ''
         for tag in itemImage.findAll("a", href=True):
             if img := tag.img:
                 itemImageLink = 'https:'+img.get("src")
 
-        itemLocation = item.find('div', {"class": "boxintxt"}).text
-        itemPrice = item.find('div', {"class": "b"}).text
+        Location = re.sub(' +', ' ', item.find('div', {"class": "boxintxt"}).text).strip()
+        Price = re.sub(' +', ' ', item.find('div', {"class": "b"}).text).strip()
 
         itemDetails = item.find('div', {"class": "boxtext"}).text
         itemDetailsArr = itemDetails.split()
-        itemMilage = itemDetailsArr[3] if len(itemDetailsArr) == 6 else itemDetailsArr[2]
+        Milage = itemDetailsArr[3] if len(itemDetailsArr) == 6 else itemDetailsArr[2]
+
+       
+       
+
 
         data += """
 ##        
 ### [{}]({})
-[{}]
-#[{}]
+
+![{}][{}]
 
 Location: **{}**
 
@@ -65,7 +68,7 @@ Mileage (Km): **{}**
 
 Publish Date: **{}**
 
-""".format(itemName, itemLink, itemName,itemImageLink,itemLocation,itemPrice,itemMilage,itemPublishedDate)
+""".format(Name,itemLink,Name,itemImageLink,Location,Price,Milage,PublishedDate)
 
     return data
 
