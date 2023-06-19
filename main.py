@@ -51,15 +51,17 @@ def extract_data(html):
         itemDetailsArr = itemDetails.split()
         itemMilage = itemDetailsArr[3] if len(itemDetailsArr) == 6 else itemDetailsArr[2]
 
-        data += f"""
+        data += """
 ##        
-### [{itemName}]({itemLink})
-![{itemName}]({itemImageLink})
-Location:**{itemLocation}**
-Price (Rs):**{itemPrice} **
-Mileage (Km):**{itemMilage}**
-Publish Date:**{itemPublishedDate}**
-"""
+### [{}]({})
+![{}]('https:'+{})
+
+Location:**{}**
+Price (Rs):**{} **
+Mileage (Km):**{}**
+Publish Date:**{}**
+""".format(itemName, itemLink, itemName,itemImageLink,itemLocation,itemPrice,itemMilage,itemPublishedDate)
+
     return data
 
 
