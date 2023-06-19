@@ -1,9 +1,9 @@
-import json
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 from datetime import date
 import re
+import hashlib
 
 
 def make_request(url):
@@ -12,8 +12,6 @@ def make_request(url):
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15'}
     response = session.get(url, headers=headers)
     response.raise_for_status()
-    cookies = requests.utils.dict_from_cookiejar(session.cookies)
-    Path("cookies.json").write_text(json.dumps(cookies))
     return response
 
 
@@ -32,7 +30,7 @@ def extract_data(html):
                 itemLink =tag['href']
                 
         PublishedDate = re.sub(' +', ' ', item.find('div', {"class": "s"}).text).strip()
-       # Skip records that don't have the current date
+        # Skip records that don't have the current date
         if PublishedDate != today:
             continue
 
@@ -50,25 +48,27 @@ def extract_data(html):
         itemDetailsArr = itemDetails.split()
         Milage = itemDetailsArr[3] if len(itemDetailsArr) == 6 else itemDetailsArr[2]
 
-       
-       
+        item_hash = hashlib.md5(
+            (Name + itemLink + itemImageLink + Location + Price + Milage + PublishedDate).encode()
+        ).hexdigest()
 
+        data += f"""
+<!-- {item_hash} -->
 
-        data += """
-##        
-### [{}]({})
+##
+### [{Name}]({itemLink})
 
-![{}]({})
+![{Name}]({itemImageLink})
 
-Location: **{}**
+Location: **{Location}**
 
-Price (Rs): **{}**
+Price (Rs): **{Price}**
 
-Mileage (Km): **{}**
+Mileage (Km): **{Milage}**
 
-Publish Date: **{}**
+Publish Date: **{PublishedDate}**
 
-""".format(Name,itemLink,Name,itemImageLink,Location,Price,Milage,PublishedDate)
+"""
 
     return data
 
