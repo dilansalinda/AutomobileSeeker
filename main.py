@@ -25,10 +25,10 @@ def extract_data(html):
     for item in items:
         itemLinkH2 = item.find('h2', {"class": "more"})
         itemLink = ''
-        
+
         for tag in itemLinkH2.findAll("a", href=True):
-                itemLink =tag['href']
-                
+            itemLink = tag['href']
+
         PublishedDate = re.sub(' +', ' ', item.find('div', {"class": "s"}).text).strip()
         # Skip records that don't have the current date
         if PublishedDate != today:
@@ -39,7 +39,7 @@ def extract_data(html):
         itemImageLink = ''
         for tag in itemImage.findAll("a", href=True):
             if img := tag.img:
-                itemImageLink = 'https:'+img.get("src")
+                itemImageLink = 'https:' + img.get("src")
 
         Location = re.sub(' +', ' ', item.find('div', {"class": "boxintxt"}).text).strip()
         Price = re.sub(' +', ' ', item.find('div', {"class": "b"}).text).strip()
@@ -78,6 +78,11 @@ def save_to_markdown(data, file_path):
         data_file.write(data)
 
 
+def read_existing_data(file_path):
+    with open(file_path, "r") as data_file:
+        return data_file.read()
+
+
 def main():
     base_url = "https://riyasewana.com/search/cars/toyota/vitz"
     filtered_url = base_url + ""
@@ -85,8 +90,18 @@ def main():
     try:
         response = make_request(filtered_url)
         html = BeautifulSoup(response.text, 'html.parser')
-        data_markdown = extract_data(html)
-        save_to_markdown(data_markdown, "data.md")
+        new_data_markdown = extract_data(html)
+
+        existing_data = read_existing_data("data.md")
+        existing_hashcodes = re.findall(r'<!-- (.*?) -->', existing_data)
+
+        new_hashcodes = re.findall(r'<!-- (.*?) -->', new_data_markdown)
+
+        if set(existing_hashcodes) == set(new_hashcodes):
+            print("No new items found. Skipping update.")
+            return
+
+        save_to_markdown(new_data_markdown, "data.md")
     except requests.exceptions.RequestException as e:
         print("Error making the request:", e)
     except Exception as e:
