@@ -42,7 +42,7 @@ def extract_data(html):
         itemImageLink = ''
         for tag in itemImage.findAll("a", href=True):
             if img := tag.img:
-                itemImageLink = img.get("src")
+                itemImageLink = 'https:'+img.get("src")
 
         itemLocation = item.find('div', {"class": "boxintxt"}).text
         itemPrice = item.find('div', {"class": "b"}).text
@@ -54,15 +54,16 @@ def extract_data(html):
         data += """
 ##        
 ### [{}]({})
-[{}]('https:'+{})
+[{}]
+#[{}]
 
-Location:**{}**
+Location: **{}**
 
-Price (Rs):**{} **
+Price (Rs): **{}**
 
-Mileage (Km):**{}**
+Mileage (Km): **{}**
 
-Publish Date:**{}**
+Publish Date: **{}**
 
 """.format(itemName, itemLink, itemName,itemImageLink,itemLocation,itemPrice,itemMilage,itemPublishedDate)
 
