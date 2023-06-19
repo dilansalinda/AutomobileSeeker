@@ -37,9 +37,9 @@ jobs:
         id: sending_email
         uses: dawidd6/action-send-mail@v3
         with:
-          subject: TEST
+          subject: Automobile Seeker
           from: cube sonar
-          to: dilan2012salinda@gmail.com
+          to: hpahishara@gmail.com
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           body: file://data.md
