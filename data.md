@@ -1,4 +1,19 @@
 
+<!-- fc711d3934b6bfd218752c6af65b92a1 -->
+
+### [Kia PICANTO 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-nugegoda-6517658)
+
+![Kia PICANTO 2016 Car](https://riyasewana.com/thumb/thumbkia-picanto-20151345201.jpg)
+
+Location: **Nugegoda**
+
+Price (Rs): **Rs. 4,390,000**
+
+Mileage (Km): **44000**
+
+Publish Date: **2023-06-20**
+
+
 <!-- 437dfeaf8f6e72454a37ef36e000d8b0 -->
 
 ### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kandy-6517257)
