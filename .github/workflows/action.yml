@@ -1,4 +1,4 @@
-name: AutoMobile Seeker Actions | Vitz
+name: AutoMobile Seeker Actions
 
 on: 
   schedule:
@@ -34,13 +34,13 @@ jobs:
           commit_message: Update data.md
         id: auto-commit-action
 
-      - name: Email HackerNews DIYgest
+      - name: Email Sender
         id: sending_email
         uses: dawidd6/action-send-mail@v3
         with:
-          subject: Automobile Seeker
-          from: cube sonar
-          to: dilan2012salinda@gmail.com,hpahishara@gmail.com
+          subject: Latest Update | Automobile Seeker
+          from: Automobile Seeker
+          to: dilan2012salinda@gmail.com,hpahishara@gmail.com,chaturangasenanayake@gmail.com
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           body: file://data.md
