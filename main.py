@@ -83,24 +83,25 @@ def read_existing_data(file_path):
 
 
 def main():
-    base_url = "https://riyasewana.com/search/cars/toyota/vitz"
-    filtered_url = base_url + ""
+    urls = ["https://riyasewana.com/search/cars/toyota/vitz", "https://riyasewana.com/search/cars/kia/picanto"]
 
     try:
-        response = make_request(filtered_url)
-        html = BeautifulSoup(response.text, 'html.parser')
-        new_data_markdown = extract_data(html)
+        
+        for index, url in enumerate(urls):
+            response = make_request(url)
+            html = BeautifulSoup(response.text, 'html.parser')
+            new_data_markdown = extract_data(html)
 
-        existing_data = read_existing_data("data.md")
-        existing_hashcodes = re.findall(r'<!-- (.*?) -->', existing_data)
+            existing_data = read_existing_data("data.md")
+            existing_hashcodes = re.findall(r'<!-- (.*?) -->', existing_data)
 
-        new_hashcodes = re.findall(r'<!-- (.*?) -->', new_data_markdown)
+            new_hashcodes = re.findall(r'<!-- (.*?) -->', new_data_markdown)
 
-        if set(existing_hashcodes) == set(new_hashcodes):
-            print("No new items found. Skipping update.")
-            return
+            if set(existing_hashcodes) == set(new_hashcodes):
+                print("No new items found. Skipping update.")
+                return
 
-        save_to_markdown(new_data_markdown, "data.md")
+            save_to_markdown(new_data_markdown, "data.md")
     except requests.exceptions.RequestException as e:
         print("Error making the request:", e)
     except Exception as e:

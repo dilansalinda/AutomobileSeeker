@@ -1,4 +1,4 @@
-name: AutoMobile Seeker Actions
+name: AutoMobile Seeker Actions | Vitz
 
 on: 
   schedule:
@@ -40,7 +40,7 @@ jobs:
         with:
           subject: Automobile Seeker
           from: cube sonar
-          to: dilan2012salinda@gmail.com
+          to: dilan2012salinda@gmail.com,hpahishara@gmail.com
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           body: file://data.md
