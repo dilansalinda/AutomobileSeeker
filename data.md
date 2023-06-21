@@ -1,4 +1,19 @@
 
+<!-- 206e18e5f9a10d2e49a3ba3849329ab5 -->
+
+### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kurunegala-6522514)
+
+![Kia Picanto 2016 Car](https://riyasewana.com/thumb/thumbkia-picanto-211559084221.jpg)
+
+Location: **Kurunegala**
+
+Price (Rs): **Rs. 4,175,000**
+
+Mileage (Km): **85000**
+
+Publish Date: **2023-06-21**
+
+
 <!-- bac59e6e9026a5030dd2d9b1e19a85cc -->
 
 ### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-malabe-6522219)
@@ -10,21 +25,6 @@ Location: **Malabe**
 Price (Rs): **Rs. 5,100,000**
 
 Mileage (Km): **109900**
-
-Publish Date: **2023-06-21**
-
-
-<!-- e0500607020fcdcc7d0810c3622a0675 -->
-
-### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kurunegala-6521312)
-
-![Kia Picanto 2016 Car](https://riyasewana.com/thumb/thumbkia-picanto-211134074661.jpg)
-
-Location: **Kurunegala**
-
-Price (Rs): **Rs. 4,190,000**
-
-Mileage (Km): **85000**
 
 Publish Date: **2023-06-21**
 
