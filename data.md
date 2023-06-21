@@ -1,9 +1,9 @@
 
-<!-- 206e18e5f9a10d2e49a3ba3849329ab5 -->
+<!-- d554d7159e4e8133d262d5d6d1e1141c -->
 
-### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kurunegala-6522514)
+### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kurunegala-6523294)
 
-![Kia Picanto 2016 Car](https://riyasewana.com/thumb/thumbkia-picanto-211559084221.jpg)
+![Kia Picanto 2016 Car](https://riyasewana.com/thumb/thumbkia-picanto-211929464771.jpg)
 
 Location: **Kurunegala**
 
