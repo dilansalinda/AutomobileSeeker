@@ -1,4 +1,19 @@
 
+<!-- bac59e6e9026a5030dd2d9b1e19a85cc -->
+
+### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-malabe-6522219)
+
+![Kia Picanto 2017 Car](https://riyasewana.com/thumb/thumbkia-picanto-21144118831.jpg)
+
+Location: **Malabe**
+
+Price (Rs): **Rs. 5,100,000**
+
+Mileage (Km): **109900**
+
+Publish Date: **2023-06-21**
+
+
 <!-- e0500607020fcdcc7d0810c3622a0675 -->
 
 ### [Kia Picanto 2016 Car](https://riyasewana.com/buy/kia-picanto-sale-kurunegala-6521312)
