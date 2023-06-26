@@ -1,9 +1,24 @@
 
-<!-- 94438074c28f7c7caaf661441ec1afdc -->
+<!-- 3b7dc6829b447608b8b31f26fc72ff10 -->
+
+### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-nugegoda-6546284)
+
+![Kia Picanto 2017 Car](https://riyasewana.com/thumb/thumbkia-picanto-2017-2017-2612321812791.jpg)
+
+Location: **Nugegoda**
+
+Price (Rs): **Rs. 4,375,000**
+
+Mileage (Km): **74500**
+
+Publish Date: **2023-06-26**
+
+
+<!-- 96a3e63f16c7a91b3216b5067769aa74 -->
 
 ### [Kia Picanto 2004 Car](https://riyasewana.com/buy/kia-picanto-sale-hendala-6545601)
 
-![Kia Picanto 2004 Car](https://riyasewana.com/thumb/thumbkia-picanto-2004-2610375912571.jpg)
+![Kia Picanto 2004 Car](https://riyasewana.com/thumb/thumbkia-picanto-2004-2610375913003.jpg)
 
 Location: **Hendala**
 
