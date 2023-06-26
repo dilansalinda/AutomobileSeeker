@@ -1,4 +1,34 @@
 
+<!-- 9268e95f7d23dd0ecbdcc17ab7ffe544 -->
+
+### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-colombo-6547575)
+
+![Kia Picanto 2017 Car](https://riyasewana.com/thumb/thumbkia-picanto-261803034521.jpg)
+
+Location: **Colombo**
+
+Price (Rs): **Rs. 5,190,000**
+
+Mileage (Km): **78000**
+
+Publish Date: **2023-06-26**
+
+
+<!-- a59aa91ae4a78fba8ac63b0f8d3cdd21 -->
+
+### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-colombo-6547571)
+
+![Kia Picanto 2017 Car](https://riyasewana.com/thumb/thumbkia-picanto-261800144791.jpg)
+
+Location: **Colombo**
+
+Price (Rs): **Rs. 5,400,000**
+
+Mileage (Km): **83000**
+
+Publish Date: **2023-06-26**
+
+
 <!-- 3b7dc6829b447608b8b31f26fc72ff10 -->
 
 ### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-nugegoda-6546284)
@@ -25,21 +55,6 @@ Location: **Hendala**
 Price (Rs): **Rs. 2,275,000**
 
 Mileage (Km): **131000**
-
-Publish Date: **2023-06-26**
-
-
-<!-- 24d6a65523eff3e540089a15ab164f94 -->
-
-### [Kia Picanto 2017 Car](https://riyasewana.com/buy/kia-picanto-sale-colombo-6545332)
-
-![Kia Picanto 2017 Car](https://riyasewana.com/thumb/thumbkia-picanto-26957414551.jpg)
-
-Location: **Colombo**
-
-Price (Rs): **Rs. 5,190,000**
-
-Mileage (Km): **78000**
 
 Publish Date: **2023-06-26**
 
