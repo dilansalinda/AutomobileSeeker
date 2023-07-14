@@ -86,7 +86,6 @@ def main():
     urls = ["https://riyasewana.com/search/cars/toyota/allion/2016-2016/petrol/automatic", "https://riyasewana.com/search/cars/toyota/premio/2016-2016/petrol/automatic"]
 
     try:
-        
         for index, url in enumerate(urls):
             response = make_request(url)
             html = BeautifulSoup(response.text, 'html.parser')
@@ -99,7 +98,7 @@ def main():
 
             if set(existing_hashcodes) == set(new_hashcodes):
                 print("No new items found. Skipping update.")
-                return
+                continue
 
             save_to_markdown(new_data_markdown, "data.md")
     except requests.exceptions.RequestException as e:
