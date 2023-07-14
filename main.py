@@ -83,7 +83,7 @@ def read_existing_data(file_path):
 
 
 def main():
-    urls = ["https://riyasewana.com/search/cars/toyota/vitz", "https://riyasewana.com/search/cars/kia/picanto"]
+    urls = ["https://riyasewana.com/search/cars/toyota/allion/2016-2016/petrol/automatic", "https://riyasewana.com/search/cars/toyota/premio/2016-2016/petrol/automatic"]
 
     try:
         
