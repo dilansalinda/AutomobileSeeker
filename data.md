@@ -1,9 +1,9 @@
 
-<!-- 25061930a03e9801c2a835e2461b46c2 -->
+<!-- 70c018a11dce1f3ce343c61a4f9f340b -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-gampaha-6635243)
 
-![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-2016-1517303712501.jpg)
+![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-1517454417125.jpg)
 
 Location: **Gampaha**
 
