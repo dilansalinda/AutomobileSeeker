@@ -1,4 +1,19 @@
 
+<!-- 25061930a03e9801c2a835e2461b46c2 -->
+
+### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-gampaha-6635243)
+
+![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-2016-1517303712501.jpg)
+
+Location: **Gampaha**
+
+Price (Rs): **Rs. 11,800,000**
+
+Mileage (Km): **113000**
+
+Publish Date: **2023-07-15**
+
+
 <!-- 0f0e21c64f5efde99779a4cf3c155421 -->
 
 ### [Toyota Premio F 2016 Car](https://riyasewana.com/buy/toyota-premio-f-sale-colombo-6632870)
