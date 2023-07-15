@@ -1,4 +1,19 @@
 
+<!-- 0f0e21c64f5efde99779a4cf3c155421 -->
+
+### [Toyota Premio F 2016 Car](https://riyasewana.com/buy/toyota-premio-f-sale-colombo-6632870)
+
+![Toyota Premio F 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-f-15100018521.jpg)
+
+Location: **Colombo**
+
+Price (Rs): **Rs. 13,500,000**
+
+Mileage (Km): **24990**
+
+Publish Date: **2023-07-15**
+
+
 <!-- 5b1e47782cfa06fc2e23651f2f0b9dfd -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-kurunegala-6631205)
