@@ -1,5 +1,5 @@
 
-<!-- 3e8e99d8251f44180a360449d2803ad4 -->
+<!-- 35378b18ac363dd7699e211fe2507081 -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-kalutara-6645288)
 
@@ -7,7 +7,7 @@
 
 Location: **Kalutara**
 
-Price (Rs): **Rs. 12,600,000**
+Price (Rs): **Negotiable**
 
 Mileage (Km): **77000**
 
