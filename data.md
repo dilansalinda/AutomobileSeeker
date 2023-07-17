@@ -1,4 +1,19 @@
 
+<!-- 3e8e99d8251f44180a360449d2803ad4 -->
+
+### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-kalutara-6645288)
+
+![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-17201141711.jpg)
+
+Location: **Kalutara**
+
+Price (Rs): **Rs. 12,600,000**
+
+Mileage (Km): **77000**
+
+Publish Date: **2023-07-17**
+
+
 <!-- 012a8ca744d13b57c0f451b41fb6c872 -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-galle-6644879)
@@ -25,21 +40,6 @@ Location: **Kurunegala**
 Price (Rs): **Rs. 12,700,000**
 
 Mileage (Km): **102000**
-
-Publish Date: **2023-07-17**
-
-
-<!-- a171601acffcf0a0a18fead0a2ef6bf9 -->
-
-### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-kandy-6644838)
-
-![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-2016-1718064312311.jpg)
-
-Location: **Kandy**
-
-Price (Rs): **Rs. 11,600,000**
-
-Mileage (Km): **80000**
 
 Publish Date: **2023-07-17**
 
