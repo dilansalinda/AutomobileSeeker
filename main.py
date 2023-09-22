@@ -31,8 +31,8 @@ def extract_data(html):
 
         PublishedDate = re.sub(' +', ' ', item.find('div', {"class": "s"}).text).strip()
         # Skip records that don't have the current date
-        if PublishedDate != today:
-            continue
+        # if PublishedDate != today:
+        #     continue
 
         Name = item.find('h2', {"class": "more"}).text
         itemImage = item.find('div')
