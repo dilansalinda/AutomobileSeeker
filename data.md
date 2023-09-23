@@ -1,4 +1,19 @@
 
+<!-- c1b4967e1b7448cff8be81b6f23a5139 -->
+
+### [Toyota PREMIO G SUPERIOR 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-polonnaruwa-6969411)
+
+![Toyota PREMIO G SUPERIOR 2016 Car](https://riyasewana.com/thumb/thumbtoyota-toyota-premio-238331791.jpg)
+
+Location: **Polonnaruwa**
+
+Price (Rs): **Rs. 12,200,000**
+
+Mileage (Km): **105000**
+
+Publish Date: **2023-09-23**
+
+
 <!-- ef30b8d5d316595792db58190a421049 -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-kuliyapitiya-6926072)
