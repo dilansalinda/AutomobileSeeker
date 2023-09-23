@@ -1,4 +1,34 @@
 
+<!-- 8278d5da902328ce03e9bc72d8896560 -->
+
+### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-matara-6970487)
+
+![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-231035204951.jpg)
+
+Location: **Matara**
+
+Price (Rs): **Rs. 13,475,000**
+
+Mileage (Km): **94000**
+
+Publish Date: **2023-09-23**
+
+
+<!-- c51975a478e78df0de8ed071d080963a -->
+
+### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-boralesgamuwa-6970374)
+
+![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-2016-2310195212901.jpg)
+
+Location: **Boralesgamuwa**
+
+Price (Rs): **Rs. 13,650,000**
+
+Mileage (Km): **46000**
+
+Publish Date: **2023-09-23**
+
+
 <!-- c1b4967e1b7448cff8be81b6f23a5139 -->
 
 ### [Toyota PREMIO G SUPERIOR 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-polonnaruwa-6969411)
@@ -12,6 +42,21 @@ Price (Rs): **Rs. 12,200,000**
 Mileage (Km): **105000**
 
 Publish Date: **2023-09-23**
+
+
+<!-- 021f60434b6c6fcab312475877ba07f0 -->
+
+### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-negombo-6967336)
+
+![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-2016-2219145312791.jpg)
+
+Location: **Negombo**
+
+Price (Rs): **Rs. 12,250,000**
+
+Mileage (Km): **74000**
+
+Publish Date: **2023-09-22**
 
 
 <!-- ef30b8d5d316595792db58190a421049 -->
