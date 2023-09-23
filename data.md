@@ -134,21 +134,6 @@ Mileage (Km): **36000**
 Publish Date: **2023-09-06**
 
 
-<!-- 3edb8560a6078c35a8aaa68fddd15079 -->
-
-### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-ratnapura-6830674)
-
-![Toyota Premio 2016 Car](https://riyasewana.com/thumb/thumbno_100.jpg)
-
-Location: **Ratnapura**
-
-Price (Rs): **Rs. 13,300,000**
-
-Mileage (Km): **75000**
-
-Publish Date: **2023-08-25**
-
-
 <!-- 3574d2cb52580c07b03f51580c285844 -->
 
 ### [Toyota Premio 2016 Car](https://riyasewana.com/buy/toyota-premio-sale-moratuwa-6785576)
@@ -237,19 +222,4 @@ Price (Rs): **Rs. 13,500,000**
 Mileage (Km): **76000**
 
 Publish Date: **2023-07-05**
-
-
-<!-- dfa5b458e04139a7d335223129107682 -->
-
-### [Toyota PREMIO G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-wennappuwa-6543947)
-
-![Toyota PREMIO G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-2616523124091.jpg)
-
-Location: **Wennappuwa**
-
-Price (Rs): **Rs. 13,100,000**
-
-Mileage (Km): **75000**
-
-Publish Date: **2023-06-25**
 
