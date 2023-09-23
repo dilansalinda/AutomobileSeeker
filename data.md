@@ -14,21 +14,6 @@ Mileage (Km): **135000**
 Publish Date: **2023-09-14**
 
 
-<!-- fb4f8cb4f76634ae3bb20a3afcd303ec -->
-
-### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-kandy-6919752)
-
-![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-g-superior-2016-138563812531.jpg)
-
-Location: **Kandy**
-
-Price (Rs): **Rs. 14,000,000**
-
-Mileage (Km): **114000**
-
-Publish Date: **2023-09-13**
-
-
 <!-- 2715fa687d3b146eb0d99a3c5b2dba15 -->
 
 ### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-negombo-6914150)
@@ -42,21 +27,6 @@ Price (Rs): **Negotiable**
 Mileage (Km): **89000**
 
 Publish Date: **2023-09-11**
-
-
-<!-- 1564c4c6db4c2fcd9ff6b627a6b2ff4a -->
-
-### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-kurunegala-6899522)
-
-![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-g-superior-2016-96460112731.jpg)
-
-Location: **Kurunegala**
-
-Price (Rs): **Rs. 13,950,000**
-
-Mileage (Km): **98000**
-
-Publish Date: **2023-09-09**
 
 
 <!-- a0c6f49a86b205ced0228f167086aa7a -->
