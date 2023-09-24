@@ -29,21 +29,6 @@ Mileage (Km): **94000**
 Publish Date: **2023-09-23**
 
 
-<!-- c51975a478e78df0de8ed071d080963a -->
-
-### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-boralesgamuwa-6970374)
-
-![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-2016-2310195212901.jpg)
-
-Location: **Boralesgamuwa**
-
-Price (Rs): **Rs. 13,650,000**
-
-Mileage (Km): **46000**
-
-Publish Date: **2023-09-23**
-
-
 <!-- c1b4967e1b7448cff8be81b6f23a5139 -->
 
 ### [Toyota PREMIO G SUPERIOR 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-polonnaruwa-6969411)
