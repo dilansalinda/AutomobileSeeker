@@ -1,4 +1,19 @@
 
+<!-- 43e553496880057d6082fae276026e32 -->
+
+### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-galle-6979052)
+
+![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-2016-2421464212901.jpg)
+
+Location: **Galle**
+
+Price (Rs): **Rs. 13,975,000**
+
+Mileage (Km): **32000**
+
+Publish Date: **2023-09-24**
+
+
 <!-- d3b08f42fd35f7172eb04a0f91f4140d -->
 
 ### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-mawanella-6976770)
