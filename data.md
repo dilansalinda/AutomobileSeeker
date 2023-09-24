@@ -1,9 +1,9 @@
 
-<!-- 09444098a72a0914772973136bb536fa -->
+<!-- d3b08f42fd35f7172eb04a0f91f4140d -->
 
-### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-mawanella-6973816)
+### [Toyota Premio G Superior 2016 Car](https://riyasewana.com/buy/toyota-premio-g-sale-mawanella-6976770)
 
-![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-232123374701.jpg)
+![Toyota Premio G Superior 2016 Car](https://riyasewana.com/thumb/thumbtoyota-premio-g-241210094741.jpg)
 
 Location: **Mawanella**
 
@@ -11,7 +11,7 @@ Price (Rs): **Rs. 13,475,000**
 
 Mileage (Km): **71000**
 
-Publish Date: **2023-09-23**
+Publish Date: **2023-09-24**
 
 
 <!-- 8278d5da902328ce03e9bc72d8896560 -->
